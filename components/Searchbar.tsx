@@ -1,16 +1,36 @@
 import React, { useContext } from "react";
 import { View, TextInput, StyleSheet } from "react-native";
+
+// CIcons
 import { Ionicons } from "@expo/vector-icons";
-import useStyles from "@/hooks/useStyles";
+
+// Theme types
 import { Theme } from "@/types/theme";
+
+// Context
 import { AppContext } from "@/context/AppContext";
 
+// Styles hook
+import useStyles from "@/hooks/useStyles"; // Custom hook for applying styles
+
+// Props for Searchbar Component
 type SearchbarProps = {
   onChangeText: (text: string) => void;
   text: string;
 };
 
-const Searchbar = ({ onChangeText, text }: SearchbarProps) => {
+/**
+ * A custom search bar component.
+ *
+ * @param {SearchbarProps} props - The component props.
+ * @param {function} props.onChangeText - Function to call when the text changes.
+ * @param {string} props.text - The current text value of the search bar.
+ * @returns {React.ReactElement} - A view component representing a search bar.
+ */
+const Searchbar = ({
+  onChangeText,
+  text,
+}: SearchbarProps): React.ReactElement => {
   const { themeStyles } = useContext(AppContext);
   const styles = useStyles(stylesheet);
 
@@ -27,12 +47,13 @@ const Searchbar = ({ onChangeText, text }: SearchbarProps) => {
         name="search"
         size={24}
         color={themeStyles.accent}
-        style={{ marginRight: 10 }}
+        style={styles.icon}
       />
     </View>
   );
 };
 
+// Stylesheet function using the provided theme
 const stylesheet = (theme: Theme) =>
   StyleSheet.create({
     container: {
@@ -50,6 +71,9 @@ const stylesheet = (theme: Theme) =>
       color: theme.text.primary,
       fontFamily: "English",
       fontSize: 16,
+    },
+    icon: {
+      marginRight: 10,
     },
   });
 

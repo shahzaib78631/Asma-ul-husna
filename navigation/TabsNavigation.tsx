@@ -7,10 +7,16 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { useContext } from "react";
 import { View } from "react-native";
 
-// Create bottom tab navigator
+// Create bottom tab navigator instance
 const Tab = createBottomTabNavigator();
 
-function TabsNavigation() {
+/**
+ * TabsNavigation component sets up the navigation structure for the app's bottom tabs.
+ * It utilizes the AppContext for theming and dynamically adjusts styles and icons.
+ *
+ * @returns {React.ReactElement} - A React Navigation Bottom Tab Navigator with custom styling and icons.
+ */
+function TabsNavigation(): React.ReactElement {
   const { themeStyles } = useContext(AppContext);
 
   return (
@@ -35,22 +41,19 @@ function TabsNavigation() {
         ),
       }}
     >
+      {/* Tab Screen for Names */}
       <Tab.Screen
-        options={{
-          headerShown: false,
-        }}
         name="Names"
         options={{
           headerTitle: () => (
             <AppText.Arabic size={24} color={themeStyles.text.primary}>
-              {" "}
               الأَسْمَاء الْحُسْنَى
             </AppText.Arabic>
           ),
           tabBarIcon: ({ color, size, focused }) => (
             <IconButton
               disabled={true}
-              Component="MaterialCommunityIcons"
+              library="MaterialCommunityIcons"
               name={focused ? "book" : "book-outline"}
               color={color}
               size={size}
@@ -59,10 +62,8 @@ function TabsNavigation() {
         }}
         component={NamesList}
       />
+      {/* Tab Screen for Favourites */}
       <Tab.Screen
-        options={{
-          headerShown: false,
-        }}
         name="Favourites"
         options={{
           headerTitle: ({ children }) => (
@@ -74,7 +75,7 @@ function TabsNavigation() {
             <View style={{ paddingRight: 2 }}>
               <IconButton
                 disabled={true}
-                Component="MaterialCommunityIcons"
+                library="MaterialCommunityIcons"
                 name={focused ? "heart" : "heart-outline"}
                 color={color}
                 size={size}

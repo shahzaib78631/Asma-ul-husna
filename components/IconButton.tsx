@@ -1,24 +1,11 @@
 import React from "react";
-import { View, TouchableOpacity, StyleSheet } from "react-native";
-import { MaterialIcons } from "@expo/vector-icons"; // This is one of the libraries included with Expo
-import {
-  AntDesign,
-  Entypo,
-  EvilIcons,
-  Feather,
-  FontAwesome,
-  Fontisto,
-  Foundation,
-  Ionicons,
-  MaterialCommunityIcons,
-  Octicons,
-  SimpleLineIcons,
-  Zocial,
-} from "@expo/vector-icons";
+import { TouchableOpacity, StyleSheet } from "react-native";
+import * as Icons from "@expo/vector-icons";
 
+// Props for the IconButton component
 interface Props {
-  name: any;
-  Component?:
+  name: string;
+  library?:
     | "MaterialIcons"
     | "FontAwesome"
     | "Ionicons"
@@ -38,15 +25,27 @@ interface Props {
   onPress?: () => void;
 }
 
+/**
+ * A customizable icon button component using various icon libraries from @expo/vector-icons.
+ *
+ * @param {Props} props - The component props.
+ * @param {string} props.name - The icon name.
+ * @param {string} [props.library='Ionicons'] - The icon library to use. Defaults to Ionicons.
+ * @param {number} [props.size] - The size of the icon.
+ * @param {string} [props.color] - The color of the icon.
+ * @param {boolean} [props.disabled=false] - If true, the button will be disabled.
+ * @param {Function} [props.onPress] - Function to call when the button is pressed.
+ * @returns {React.ReactElement} - A touchable icon component.
+ */
 const IconButton = ({
   name,
-  Component,
+  library = "Ionicons",
   size,
   color,
-  disabled,
+  disabled = false,
   onPress,
-}: Props) => {
-  const ComponentName = Component || "Ionicons";
+}: Props): React.ReactElement => {
+  const IconComponent: any = Icons[library];
 
   return (
     <TouchableOpacity
@@ -54,45 +53,7 @@ const IconButton = ({
       style={styles.button}
       onPress={onPress}
     >
-      {ComponentName === "MaterialIcons" && (
-        <MaterialIcons name={name} size={size} color={color} />
-      )}
-      {ComponentName === "FontAwesome" && (
-        <FontAwesome name={name} size={size} color={color} />
-      )}
-      {ComponentName === "Ionicons" && (
-        <Ionicons name={name} size={size} color={color} />
-      )}
-      {ComponentName === "MaterialCommunityIcons" && (
-        <MaterialCommunityIcons name={name} size={size} color={color} />
-      )}
-      {ComponentName === "AntDesign" && (
-        <AntDesign name={name} size={size} color={color} />
-      )}
-      {ComponentName === "Entypo" && (
-        <Entypo name={name} size={size} color={color} />
-      )}
-      {ComponentName === "EvilIcons" && (
-        <EvilIcons name={name} size={size} color={color} />
-      )}
-      {ComponentName === "Feather" && (
-        <Feather name={name} size={size} color={color} />
-      )}
-      {ComponentName === "Fontisto" && (
-        <Fontisto name={name} size={size} color={color} />
-      )}
-      {ComponentName === "Foundation" && (
-        <Foundation name={name} size={size} color={color} />
-      )}
-      {ComponentName === "Octicons" && (
-        <Octicons name={name} size={size} color={color} />
-      )}
-      {ComponentName === "SimpleLineIcons" && (
-        <SimpleLineIcons name={name} size={size} color={color} />
-      )}
-      {ComponentName === "Zocial" && (
-        <Zocial name={name} size={size} color={color} />
-      )}
+      <IconComponent name={name} size={size} color={color} />
     </TouchableOpacity>
   );
 };
@@ -100,7 +61,8 @@ const IconButton = ({
 const styles = StyleSheet.create({
   button: {
     alignItems: "center",
-    borderRadius: 5, // Rounds the corners of the buttons
+    justifyContent: "center",
+    borderRadius: 5, // Rounded corners
   },
 });
 

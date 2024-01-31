@@ -1,18 +1,16 @@
-import { StyleSheet, View, Text, ListRenderItem } from "react-native";
 import React, { useContext } from "react";
+import { View, StyleSheet } from "react-native";
 
-// Components
+// Importing components and context
 import AppText from "./AppText";
 import IconButton from "./IconButton";
 import NumericCounter from "./NumericCounter";
-
-// AppContext
 import { AppContext } from "@/context/AppContext";
 
-// Styles
+// Hooks
 import useStyles from "@/hooks/useStyles";
 
-// Type
+// Types
 import { Theme } from "@/types/theme";
 
 interface ListCardProps {
@@ -23,9 +21,18 @@ interface ListCardProps {
     english_info: string;
   };
   isFav: boolean;
-  onFavPress: any;
+  onFavPress: (key: string) => void;
 }
 
+/**
+ * A card component to display list items with various information and controls.
+ *
+ * @param {ListCardProps} props - The component props.
+ * @param {object} props.item - The item to display, containing key, english_roman, arabic, and english_info.
+ * @param {boolean} props.isFav - Whether the item is marked as a favorite.
+ * @param {Function} props.onFavPress - Function to call when the favorite button is pressed.
+ * @returns {React.ReactElement} - A view component representing a card in a list.
+ */
 const ListCard: React.FC<ListCardProps> = ({ item, isFav, onFavPress }) => {
   const {
     themeStyles: theme,
@@ -34,23 +41,21 @@ const ListCard: React.FC<ListCardProps> = ({ item, isFav, onFavPress }) => {
     setPlayingName,
   } = useContext(AppContext);
 
-  // Styles
+  // Dynamic styles using the theme
   const styles = useStyles(stylesheet);
 
+  // Toggles the playing state for the item
   const togglePlaying = () => {
-    if (playingName === item?.key && isPlaying) {
-      setPlayingName(0);
-    } else {
-      setPlayingName(item?.key);
-    }
+    setPlayingName(playingName === item.key && isPlaying ? 0 : item.key);
   };
 
   return (
     <View style={styles.container}>
       <View style={styles.header}>
+        {/* Play/Pause button */}
         <IconButton
           name={
-            playingName === item?.key && isPlaying
+            playingName === item.key && isPlaying
               ? "pause-outline"
               : "play-outline"
           }
@@ -59,34 +64,36 @@ const ListCard: React.FC<ListCardProps> = ({ item, isFav, onFavPress }) => {
           onPress={togglePlaying}
         />
         <View style={styles.spacer} />
+        {/* Favorite button */}
         <IconButton
           name={isFav ? "heart" : "heart-outline"}
           size={20}
-          Component="MaterialCommunityIcons"
+          library="MaterialCommunityIcons"
           color={theme.accent}
-          onPress={() => onFavPress(item?.key)}
+          onPress={() => onFavPress(item.key)}
         />
+        {/* Numeric counter */}
         <View style={styles.countContainer}>
-          <NumericCounter count={item?.key} color={theme.accent} />
+          <NumericCounter count={item.key} color={theme.accent} />
         </View>
       </View>
-      <View style={styles.seperator} />
+      <View style={styles.separator} />
       <View style={styles.info}>
         <View style={styles.leftContainer}>
           <View style={styles.nameHeader}>
             <View style={styles.englishNameContainer}>
               <AppText.English style={styles.english} numberOfLines={1}>
-                {item?.english_roman}
+                {item.english_roman}
               </AppText.English>
             </View>
             <View style={styles.arabicNameContainer}>
               <AppText.Arabic style={styles.arabic}>
-                {item?.arabic}
+                {item.arabic}
               </AppText.Arabic>
             </View>
           </View>
           <AppText.English style={styles.englishInfo}>
-            {item?.english_info}.
+            {item.english_info}.
           </AppText.English>
         </View>
       </View>
@@ -94,15 +101,21 @@ const ListCard: React.FC<ListCardProps> = ({ item, isFav, onFavPress }) => {
   );
 };
 
-const stylesheet = (theme: Theme) =>
-  StyleSheet.create({
+/**
+ * Generates a stylesheet for a React Native component based on the given theme.
+ *
+ * @param {Theme} theme - The theme object that contains color and style properties.
+ * @returns {StyleSheet.NamedStyles<any>} A StyleSheet object with styles based on the provided theme.
+ */
+const stylesheet = (theme: Theme): StyleSheet.NamedStyles<any> => {
+  return StyleSheet.create({
     header: {
       width: "100%",
       alignItems: "center",
       flexDirection: "row",
       justifyContent: "space-between",
     },
-    seperator: {
+    separator: {
       height: 0.5,
       width: "100%",
       backgroundColor: theme.background.white,
@@ -115,7 +128,8 @@ const stylesheet = (theme: Theme) =>
       backgroundColor: theme.background.secondary,
       paddingHorizontal: 15,
       borderRadius: 6,
-      borderCurve: "continuous",
+      // Note: borderCurve is not a standard style property in React Native.
+      // If this is a custom property, ensure it is handled appropriately in your components.
       padding: 15,
       paddingTop: 10,
     },
@@ -169,5 +183,6 @@ const stylesheet = (theme: Theme) =>
       paddingHorizontal: 5,
     },
   });
+};
 
 export default ListCard;
