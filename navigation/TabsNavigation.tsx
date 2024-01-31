@@ -8,7 +8,6 @@ import IconButton from "@/components/IconButton";
 import { AppContext } from "@/context/AppContext";
 
 // Screens
-import FavNamesList from "@/screens/FavNamesList";
 import NamesList from "@/screens/NamesList";
 
 // Create bottom tab navigator instance
@@ -87,8 +86,9 @@ function TabsNavigation(): React.ReactElement {
             </View>
           ),
         }}
-        component={FavNamesList}
-      />
+      >
+        {(props: any) => <NamesList {...props} showFavoritesOnly={true} />}
+      </Tab.Screen>
     </Tab.Navigator>
   );
 }

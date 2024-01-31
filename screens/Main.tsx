@@ -1,20 +1,19 @@
-import { SafeAreaView, StyleSheet } from "react-native";
+import { useContext } from "react";
+import { StyleSheet } from "react-native";
+import { StatusBar } from "expo-status-bar";
 
-import Constants from "expo-constants";
-
-// Screens
-import NamesList from "@/screens/NamesList";
+// Navigation
+import TabsNavigation from "@/navigation/TabsNavigation";
+import { DefaultTheme, NavigationContainer } from "@react-navigation/native";
 
 // Styles
 import useStyles from "@/hooks/useStyles";
 
 // Theme Interface
 import { Theme } from "@/types/theme";
-import { DefaultTheme, NavigationContainer } from "@react-navigation/native";
-import TabsNavigation from "@/navigation/TabsNavigation";
-import { useContext } from "react";
+
+// App Context
 import { AppContext } from "@/context/AppContext";
-import { StatusBar } from "expo-status-bar";
 
 export default function MainScreen() {
   // Styles

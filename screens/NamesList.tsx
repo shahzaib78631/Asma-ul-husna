@@ -15,10 +15,17 @@ import { getNames } from "@/utils/helpers";
 // Hooks
 import useSearch from "@/hooks/useSearch";
 
-// Names list screen
-const NamesList: React.FC = () => {
+// Unified Names list screen
+const NamesList: React.FC<{ showFavoritesOnly?: boolean }> = ({
+  showFavoritesOnly = false,
+}) => {
   const { text, onChangeText, filteredResults } = useSearch(getNames());
   const { favourites, toggleFavourite } = useContext(AppContext);
+
+  // If showFavoritesOnly is true, filter the results to only show the favourites
+  const displayedData = showFavoritesOnly
+    ? filteredResults.filter((item) => favourites?.[item.id])
+    : filteredResults;
 
   return (
     <>
@@ -26,7 +33,7 @@ const NamesList: React.FC = () => {
         <Searchbar text={text} onChangeText={onChangeText} />
       </View>
       <List
-        data={filteredResults}
+        data={displayedData}
         id="id"
         renderComponent={({ item }) => (
           <ListCard

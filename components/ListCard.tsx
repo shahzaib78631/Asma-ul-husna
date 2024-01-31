@@ -5,6 +5,8 @@ import { View, StyleSheet } from "react-native";
 import AppText from "./AppText";
 import IconButton from "./IconButton";
 import NumericCounter from "./NumericCounter";
+
+// App context
 import { AppContext } from "@/context/AppContext";
 
 // Hooks
@@ -120,8 +122,9 @@ const stylesheet = (theme: Theme): StyleSheet.NamedStyles<any> => {
       justifyContent: "space-between",
     },
     separator: {
-      height: 0.5,
+      height: 1,
       width: "100%",
+      opacity: 0.2,
       backgroundColor: theme.background.white,
       marginVertical: 10,
     },

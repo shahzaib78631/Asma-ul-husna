@@ -7,6 +7,7 @@ import { AppProvider } from "./context/AppContext";
 // Screen
 import MainScreen from "./screens/Main";
 
+// Main App Component
 export default function App() {
   // Load fonts
   const [fontsLoaded, fontError] = useFonts({

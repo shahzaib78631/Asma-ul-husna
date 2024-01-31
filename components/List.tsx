@@ -14,6 +14,7 @@ const List: React.FC<Props> = ({ data, renderComponent, id }) => {
       renderItem={renderComponent}
       initialNumToRender={15}
       maxToRenderPerBatch={10}
+      showsVerticalScrollIndicator={false}
       contentContainerStyle={styles.contentConatiner}
       keyExtractor={(item, index) => item?.[id] || index.toString()}
       ItemSeparatorComponent={() => <View style={styles.itemSeperator} />}
