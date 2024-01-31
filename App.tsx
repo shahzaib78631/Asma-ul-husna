@@ -1,6 +1,3 @@
-import { StatusBar } from "expo-status-bar";
-import { SafeAreaView, StyleSheet } from "react-native";
-
 // Use Expo Fonts
 import { useFonts } from "expo-font";
 
