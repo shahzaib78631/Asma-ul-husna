@@ -1,0 +1,1756 @@
+{
+  "1": {
+    "key": "1",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:01-ar-rahman.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/01-ar-rahman.ogg"
+    ],
+    "arabic": "الرَّحْمَنُ",
+    "arabic_msa": "الرّحمان",
+    "english_roman": "AR-RAHMAAN",
+    "english": ["The ِBeneficient", "All-Compassionate", "Most Gracious"],
+    "reference": [
+      "Quran: Beginning of every Surah (chapter) except one and many other places. The first verse (ayat) of Surah ar-Rahman (Surah 55) consists only of this Name."
+    ],
+    "grammar": ["D"],
+    "english_info": "He who wills goodness and mercy for all His creatures",
+    "urdu": "بہت مہربان",
+    "english_meaning": "The Beneficent"
+  },
+  "2": {
+    "key": "2",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:02-ar-rahim.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e6/02-ar-rahim.ogg"
+    ],
+    "arabic": "الرَّحِيمُ",
+    "arabic_msa": "الرّحيم",
+    "english_roman": "AR-RAHEEM",
+    "english": [
+      "The Most Merciful",
+      "Ever-Merciful",
+      "Merciful",
+      "Most Clement"
+    ],
+    "reference": [
+      "Quran: Beginning of every Surah (chapter) except one and many other places (there are a total of 114 Surahs in the Quran.)"
+    ],
+    "grammar": ["D"],
+    "english_info": "He who acts with extreme kindness",
+    "urdu": "نہایت مہربان",
+    "english_meaning": "The Merciful"
+  },
+  "3": {
+    "key": "3",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:03-al-malik.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/62/03-al-malik.ogg"
+    ],
+    "arabic": "الْمَلِكُ",
+    "arabic_msa": "المالك",
+    "english_roman": "AL-MALIK",
+    "english": ["The King", "Lord", "Sovereign", "Dominion", "Master"],
+    "reference": ["59:23", "20:114", "23:116"],
+    "grammar": ["D"],
+    "english_info": "The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection",
+    "urdu": "بادشاہ",
+    "english_meaning": "The King"
+  },
+  "4": {
+    "key": "4",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:04-al-quddus.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/04-al-quddus.ogg"
+    ],
+    "arabic": "الْقُدُّوسُ",
+    "arabic_msa": "القدّوس",
+    "english_roman": "AL-QUDDUS",
+    "english": ["The Holy", "All-Holy", "All-Pure", "Sacred", "All-Sacred"],
+    "reference": ["59:23", "62:1"],
+    "grammar": ["D"],
+    "english_info": "The One who is pure from any imperfection and clear from children and adversaries",
+    "urdu": "پاک ذات",
+    "english_meaning": "The Most Sacred"
+  },
+  "5": {
+    "key": "5",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:05-as-salam.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/05-as-salam.ogg"
+    ],
+    "arabic": "السَّلاَمُ",
+    "arabic_msa": "السّلام",
+    "english_roman": "AS-SALAM",
+    "english": ["The Giver of Peace", "Peace", "All-Calm", "Ever-Tranquil"],
+    "reference": ["59:23"],
+    "grammar": ["D"],
+    "english_info": "The One who is free from every imperfection",
+    "urdu": "سلامتی والا",
+    "english_meaning": "The Source of Peace, The Flawless"
+  },
+  "6": {
+    "key": "6",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:06-al-mumin.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/68/06-al-mumin.ogg"
+    ],
+    "arabic": "الْمُؤْمِنُ",
+    "arabic_msa": "المؤمن",
+    "english_roman": "AL-MU’MIN",
+    "english": [
+      "The Granter of Security",
+      "the Giver",
+      "Faith",
+      "Supreme Believer (of Belief)",
+      "Giver of Belief",
+      "All-Assurer"
+    ],
+    "reference": ["59:23"],
+    "grammar": ["D"],
+    "english_info": "The One who witnessed for Himself that no one is God but Him. And He witnessed for His believers that they are truthful in their belief that no one is God but Him",
+    "urdu": "امن دینے والا",
+    "english_meaning": "The Infuser of Faith"
+  },
+  "7": {
+    "key": "7",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:07-al-muhaymin.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ef/07-al-muhaymin.ogg"
+    ],
+    "arabic": "الْمُهَيْمِنُ",
+    "arabic_msa": "المهيمن",
+    "english_roman": "AL-MUHAYMIN",
+    "english": [
+      "The Controller",
+      "Absolute Authority Over All",
+      "Guardian Over All",
+      "Absolute Master",
+      "Eternal Dominating"
+    ],
+    "reference": ["59:23"],
+    "grammar": ["D"],
+    "english_info": "The One who witnesses the saying and deeds of His creatures",
+    "urdu": "نگرانی کرنے والا",
+    "english_meaning": "The Preserver of Safety"
+  },
+  "8": {
+    "key": "8",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:08-al-aziz.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f9/08-al-aziz.ogg"
+    ],
+    "arabic": "الْعَزِيزُ",
+    "arabic_msa": "العزيز",
+    "english_roman": "AL-AZIZ",
+    "english": [
+      "The Exalted in Might and Power",
+      "Exalted",
+      "Powerful",
+      "Almighty",
+      "Mighty"
+    ],
+    "reference": ["3:6", "4:158", "9:40", "48:7", "59:23"],
+    "grammar": ["D"],
+    "english_info": "The Strong, The Defeater who is not defeated",
+    "urdu": "غالب",
+    "english_meaning": "All Mighty"
+  },
+  "9": {
+    "key": "9",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:09-al-jabbar.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/09-al-jabbar.ogg"
+    ],
+    "arabic": "الْجَبَّارُ",
+    "arabic_msa": "الجبّار",
+    "english_roman": "AL-JABBAR",
+    "english": [
+      "The Omnipotent",
+      "Supreme Power",
+      "Possessor of Having All Power",
+      "Strong"
+    ],
+    "reference": ["59:23"],
+    "grammar": ["D"],
+    "english_info": "The One that nothing happens in His Dominion except that which He willed",
+    "urdu": "زبردست",
+    "english_meaning": "The Compeller, The Restorer"
+  },
+  "10": {
+    "key": "10",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:10-al-mutakabbir.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a9/10-al-mutakabbir.ogg"
+    ],
+    "arabic": "الْمُتَكَبِّر",
+    "arabic_msa": "المتكبّر",
+    "english_roman": "AL-MUTAKABBIR",
+    "english": ["The Possessor of Greatness", "Supreme", "Justly Proud"],
+    "reference": ["59:23"],
+    "grammar": ["D"],
+    "english_info": "The One who is clear from the attributes of the creatures and from resembling them",
+    "urdu": "بڑایی والا",
+    "english_meaning": "The Supreme, The Majestic"
+  },
+  "11": {
+    "key": "11",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:11-al-khaliq.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a6/11-al-khaliq.ogg"
+    ],
+    "arabic": "الْخَالِقُ",
+    "arabic_msa": "الخالق",
+    "english_roman": "AL-KHAALIQ",
+    "english": [
+      "The Creator",
+      "Creator of the Universe",
+      "Maker",
+      "True Originator",
+      "Absolute Author"
+    ],
+    "reference": ["6:102", "13:16", "36:81", "39:62", "40:62", "59:24"],
+    "grammar": ["D"],
+    "english_info": "The One who brings everything from non-existence to existence",
+    "urdu": "بنانے والا",
+    "english_meaning": "The Creator, The Maker"
+  },
+  "12": {
+    "key": "12",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:12-al-bari.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0b/12-al-bari.ogg"
+    ],
+    "arabic": "الْبَارِئُ",
+    "arabic_msa": "البارئ",
+    "english_roman": "AL-BAARI",
+    "english": [
+      "The Initiator",
+      "Evolver",
+      "Eternal Spirit Worshipped By All",
+      "Have Absolute Power Over All Matters"
+    ],
+    "reference": ["59:24"],
+    "grammar": ["D"],
+    "english_info": "The Maker, The Creator who has the Power to turn the entities",
+    "urdu": "پیدا کرنے والا",
+    "english_meaning": "The Evolver"
+  },
+  "13": {
+    "key": "13",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:13-al-musawwir.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/dc/13-al-musawwir.ogg"
+    ],
+    "arabic": "الْمُصَوِّرُ",
+    "arabic_msa": "المصوّر",
+    "english_roman": "AL-MUSAWWIR",
+    "english": ["The Fashioner", "Shaper", "Designer", "Artist"],
+    "reference": ["59:24"],
+    "grammar": ["D"],
+    "english_info": "The One who forms His creatures in different pictures",
+    "urdu": "صورتیں بنانے والا",
+    "english_meaning": "The Fashioner"
+  },
+  "14": {
+    "key": "14",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:14-al-ghaffar.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ea/14-al-ghaffar.ogg"
+    ],
+    "arabic": "الْغَفَّارُ",
+    "arabic_msa": "الغفّـٰر",
+    "english_roman": "AL-GHAFFAR",
+    "english": [
+      "The Repeatedly Forgiving",
+      "Absolute Forgiver",
+      "Pardoner",
+      "Condoner (He Who is Ready to Pardon and Forgive)"
+    ],
+    "reference": ["20:82", "38:66", "39:5", "40:42", "71:10"],
+    "grammar": ["D"],
+    "english_info": "The Forgiver, The One who forgives the sins of His slaves time and time again",
+    "urdu": "بخشنے والا",
+    "english_meaning": "The Constant Forgiver"
+  },
+  "15": {
+    "key": "15",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:15-al-qahhar.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d1/15-al-qahhar.ogg"
+    ],
+    "arabic": "الْقَهَّارُ",
+    "arabic_msa": "القهّار",
+    "english_roman": "AL-QAHHAR",
+    "english": [
+      "The Subduer",
+      "Overcomer",
+      "Conqueror",
+      "Absolute Vanquisher (Possessor of Who Subdues Evil and Oppression)"
+    ],
+    "reference": ["12:39", "13:16", "14:48", "38:65", "39:4", "40:16"],
+    "grammar": ["D"],
+    "english_info": "The Dominant, The One who has the perfect Power and is not unable over anything",
+    "urdu": "بہت غلبے والا",
+    "english_meaning": "The All-Prevailing One"
+  },
+  "16": {
+    "key": "16",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:16-al-wahhab.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c6/16-al-wahhab.ogg"
+    ],
+    "arabic": "الْوَهَّابُ",
+    "arabic_msa": "الوهّاب",
+    "english_roman": "AL-WAHHAAB",
+    "english": ["The Absolute Bestower", "Giver", "Grantor", "Great Donor"],
+    "reference": ["38:9", "38:35"],
+    "grammar": ["D"],
+    "english_info": "The One who is Generous in giving plenty without any return. He is everything that benefits whether Halal or Haram",
+    "urdu": "بہت دینے والا",
+    "english_meaning": "The Supreme Bestower"
+  },
+  "17": {
+    "key": "17",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:17-ar-razzaq.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/43/17-ar-razzaq.ogg"
+    ],
+    "arabic": "الرَّزَّاقُ",
+    "arabic_msa": "الرّزّاق",
+    "english_roman": "AR-RAZZAAQ",
+    "english": [
+      "The Provider",
+      "Sustainer",
+      "Bestower of Sustenance",
+      "All-Provider"
+    ],
+    "reference": ["51:58"],
+    "grammar": ["D"],
+    "english_info": "The Sustainer, The Provider",
+    "urdu": "روزی دینے والا",
+    "english_meaning": "The Provider"
+  },
+  "18": {
+    "key": "18",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:18-al-fattah.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4e/18-al-fattah.ogg"
+    ],
+    "arabic": "الْفَتَّاحُ",
+    "arabic_msa": "الفتّاح",
+    "english_roman": "AL-FATTAAH",
+    "english": [
+      "The Opener",
+      "Opener of the Gates of Profits",
+      "Reliever",
+      "The Victory Giver"
+    ],
+    "reference": ["34:26"],
+    "grammar": ["D"],
+    "english_info": "The Opener, The Reliever, The Judge, The One who opens for His slaves the closed worldly and religious matters",
+    "urdu": "کھولنے والا",
+    "english_meaning": "The Supreme Solver"
+  },
+  "19": {
+    "key": "19",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:19-al-alim.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/96/19-al-alim.ogg"
+    ],
+    "arabic": "اَلْعَلِيْمُ",
+    "arabic_msa": "العليم",
+    "english_roman": "AL-‘ALEEM",
+    "english": [
+      "The Knowing",
+      "All-Knower",
+      "Omniscient",
+      "All-Knowledgeable",
+      "All-Knowing"
+    ],
+    "reference": ["2:158", "3:92", "4:35", "24:41", "33:40"],
+    "grammar": ["D"],
+    "english_info": "The Knowledgeable; The One nothing is absent from His knowledge",
+    "urdu": "جاننے والا",
+    "english_meaning": "The All-Knowing"
+  },
+  "20": {
+    "key": "20",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:20-al-qabid.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/27/20-al-qabid.ogg"
+    ],
+    "arabic": "الْقَابِضُ",
+    "arabic_msa": "القابض",
+    "english_roman": "AL-QAABID",
+    "english": [
+      "The Restrainer",
+      "Withholder",
+      "Straightener",
+      "Absolute Seizer"
+    ],
+    "reference": ["2:245"],
+    "grammar": ["V"],
+    "english_info": "The Constrictor, The Withholder, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy",
+    "urdu": "تنگ کرنے والا",
+    "english_meaning": "The Withholder"
+  },
+  "21": {
+    "key": "21",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:21-al-basit.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c0/21-al-basit.ogg"
+    ],
+    "arabic": "الْبَاسِطُ",
+    "arabic_msa": "الباسط",
+    "english_roman": "AL-BAASIT",
+    "english": ["The Extender", "Expander", "Generous Provider"],
+    "reference": ["2:245"],
+    "grammar": ["V"],
+    "english_info": "The Englarger, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy",
+    "urdu": "کشادہ کرنے والا",
+    "english_meaning": "The Extender"
+  },
+  "22": {
+    "key": "22",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:22-al-khafid.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fa/22-al-khafid.ogg"
+    ],
+    "arabic": "الْخَافِضُ",
+    "arabic_msa": "الخافض",
+    "english_roman": "AL-KHAAFIDH",
+    "english": [
+      "The Abaser",
+      "Humiliator",
+      "Downgrader (Possessor of Giving Comfort)"
+    ],
+    "reference": ["56:3", "al-Kafʿamī (1992:38)"],
+    "grammar": ["O"],
+    "english_info": "The Abaser, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment",
+    "urdu": "پست کرنے والا",
+    "english_meaning": "The Reducer"
+  },
+  "23": {
+    "key": "23",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:23-ar-rafi.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/96/23-ar-rafi.ogg"
+    ],
+    "arabic": "الرَّافِعُ",
+    "arabic_msa": "الرّافع",
+    "english_roman": "AR-RAAFI’",
+    "english": ["The Exalter", "Upgrader (of Ranks)"],
+    "reference": ["58:11", "6:83"],
+    "grammar": ["V"],
+    "english_info": "The Exalter, The Elevator, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment",
+    "urdu": "بلند کرنے والا",
+    "english_meaning": "The Exalter, The Elevator"
+  },
+  "24": {
+    "key": "24",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:24-al-muizz.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f6/24-al-muizz.ogg"
+    ],
+    "arabic": "الْمُعِزُّ",
+    "arabic_msa": "المعزّ",
+    "english_roman": "AL-MU’IZZ",
+    "english": ["The Giver of Honor", "Bestower of Honor", "Empowerer"],
+    "reference": ["3:26"],
+    "grammar": ["V"],
+    "english_info": "He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem",
+    "urdu": "عزت دینے والا",
+    "english_meaning": "The Honourer, The Bestower"
+  },
+  "25": {
+    "key": "25",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:25-al-mudhill.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b0/25-al-mudhill.ogg"
+    ],
+    "arabic": "ٱلْمُذِلُّ",
+    "arabic_msa": "المذلّ",
+    "english_roman": "AL-MUZIL",
+    "english": ["The Giver of Dishonor", "the Giver of Disgrace"],
+    "reference": ["3:26"],
+    "grammar": ["V"],
+    "english_info": "The Dishonourer, The Humiliator, He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem",
+    "urdu": "ذلیل کرنے والا",
+    "english_meaning": "The Dishonourer"
+  },
+  "26": {
+    "key": "26",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:26-as-sami.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fe/26-as-sami.ogg"
+    ],
+    "arabic": "السَّمِيعُ",
+    "arabic_msa": "السّميع",
+    "english_roman": "AS-SAMEE’",
+    "english": ["The Hearing", "All-Hearing", "Hearer of Invocation"],
+    "reference": ["2:127", "2:256", "8:17", "49:1"],
+    "grammar": ["D"],
+    "english_info": "The Hearer, The One who Hears all things that are heard by His Eternal Hearing without an ear, instrument or organ",
+    "urdu": "خوب سننے والا",
+    "english_meaning": "The All-Hearing"
+  },
+  "27": {
+    "key": "27",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:27-al-basir.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/28/27-al-basir.ogg"
+    ],
+    "arabic": "الْبَصِيرُ",
+    "arabic_msa": "البصير",
+    "english_roman": "AL-BASEER",
+    "english": [
+      "The All-Seeing",
+      "All-Seer",
+      "Ever-Clairvoyant",
+      "Clear-Sighted",
+      "Clear-Seeing"
+    ],
+    "reference": ["4:58", "17:1", "42:11", "42:27"],
+    "grammar": ["D"],
+    "english_info": "The All-Noticing, The One who Sees all things that are seen by His Eternal Seeing without a pupil or any other instrument",
+    "urdu": "خوب دیکنے والا",
+    "english_meaning": "The All-Seeing"
+  },
+  "28": {
+    "key": "28",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:28-al-hakam.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/eb/28-al-hakam.ogg"
+    ],
+    "arabic": "الْحَكَمُ",
+    "arabic_msa": "الحكم",
+    "english_roman": "AL-HAKAM",
+    "english": [
+      "The Judge",
+      "Arbitrator",
+      "Arbiter",
+      "All-Decree",
+      "Possessor of Authority of Decisions and Judgment"
+    ],
+    "reference": ["22:69"],
+    "grammar": ["V"],
+    "english_info": "The Judge, He is the Ruler and His judgment is His Word",
+    "urdu": "فیصلہ کرنے والا",
+    "english_meaning": "The Impartial Judge"
+  },
+  "29": {
+    "key": "29",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:29-al-adl.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bd/29-al-adl.ogg"
+    ],
+    "arabic": "الْعَدْلُ",
+    "arabic_msa": "العدل",
+    "english_roman": "AL-‘ADL",
+    "english": [
+      "The Just",
+      "Authorized and Straightforward Judge of Dealing Justly"
+    ],
+    "reference": ["Not Quranic", "see al-Kafʿamī (1992:40)"],
+    "grammar": [""],
+    "english_info": "The Just, The One who is entitled to do what He does",
+    "urdu": "انصاف کرنے والا",
+    "english_meaning": "The Utterly Just"
+  },
+  "30": {
+    "key": "30",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:30-al-latif.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/25/30-al-latif.ogg"
+    ],
+    "arabic": "اللَّطِيفُ",
+    "arabic_msa": "اللّطيف",
+    "english_roman": "AL-LATEEF",
+    "english": ["The Gentle", "Benignant", "Subtly Kind", "All-Subtle"],
+    "reference": ["22:63", "31:16", "33:34"],
+    "grammar": ["D"],
+    "english_info": "The Subtle One, The Gracious, The One who is kind to His slaves and endows upon them",
+    "urdu": "مہربان",
+    "english_meaning": "The Subtle One, The Most Gentle"
+  },
+  "31": {
+    "key": "31",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:31-al-khabir.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d2/31-al-khabir.ogg"
+    ],
+    "arabic": "الْخَبِيرُ",
+    "arabic_msa": "الخبير",
+    "english_roman": "AL-KHABEER",
+    "english": ["The All-Aware", "Well-Acquainted", "Ever-Adept"],
+    "reference": ["6:18", "17:30", "49:13", "59:18"],
+    "grammar": ["D"],
+    "english_info": "The One who knows the truth of things",
+    "urdu": "خبر رکھنے والا",
+    "english_meaning": "The All-Aware"
+  },
+  "32": {
+    "key": "32",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:32-al-halim.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a1/32-al-halim.ogg"
+    ],
+    "arabic": "الْحَلِيمُ",
+    "arabic_msa": "الحليم",
+    "english_roman": "AL-HALEEM",
+    "english": [
+      "The Forbearing",
+      "Indulgent",
+      "Oft Forbearing",
+      "All-Enduring"
+    ],
+    "reference": ["2:235", "17:44", "22:59", "35:41"],
+    "grammar": ["A"],
+    "english_info": "The Forebearing, The One who delays the punishment for those who deserve it and then He might forgive them",
+    "urdu": "بردبار",
+    "english_meaning": "The Most Forbearing"
+  },
+  "33": {
+    "key": "33",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:33-al-azim.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/33-al-azim.ogg"
+    ],
+    "arabic": "الْعَظِيمُ",
+    "arabic_msa": "العظيم",
+    "english_roman": "AL-‘AZEEM",
+    "english": [
+      "The Most Great",
+      "Ever-Magnificent",
+      "Most Supreme",
+      "Exalted",
+      "Absolute Dignified"
+    ],
+    "reference": ["2:255", "42:4", "56:96"],
+    "grammar": ["D"],
+    "english_info": "The Great One, The Mighty, The One deserving the attributes of Exaltment, Glory, Extolement, and Purity from all imperfection",
+    "urdu": "بہت عظمت والا",
+    "english_meaning": "The Magnificent, The Supreme"
+  },
+  "34": {
+    "key": "34",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:34-al-ghafur.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/34-al-ghafur.ogg"
+    ],
+    "arabic": "الْغَفُور",
+    "arabic_msa": "الغفور",
+    "english_roman": "AL-GHAFOOR",
+    "english": ["The Ever-Forgiving", "Oft-Forgiving"],
+    "reference": ["2:173", "8:69", "16:110", "41:32"],
+    "grammar": ["D"],
+    "english_info": "The All-Forgiving, The Forgiving, The One who forgives a lot",
+    "urdu": "خوب بخش دینے والا",
+    "english_meaning": "The Great Forgiver"
+  },
+  "35": {
+    "key": "35",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:35-ash-shakur.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9b/35-ash-shakur.ogg"
+    ],
+    "arabic": "الشَّكُورُ",
+    "arabic_msa": "الشّكور",
+    "english_roman": "ASH-SHAKOOR",
+    "english": ["The Grateful", "Appreciative", "Multiplier of Rewards"],
+    "reference": ["35:30", "35:34", "42:23", "64:17"],
+    "grammar": ["A"],
+    "english_info": "The Grateful, The Appreciative, The One who gives a lot of reward for a little obedience",
+    "urdu": "قدردان",
+    "english_meaning": "The Most Appreciative"
+  },
+  "36": {
+    "key": "36",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:36-al-ali.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/44/36-al-ali.ogg"
+    ],
+    "arabic": "الْعَلِيُّ",
+    "arabic_msa": "العليّ",
+    "english_roman": "AL-‘ALEE",
+    "english": [
+      "The Sublime",
+      "Ever-Exalted",
+      "Supreme",
+      "Most High",
+      "Most Lofty"
+    ],
+    "reference": ["4:34", "31:30", "42:4", "42:51", "34:23"],
+    "grammar": ["D"],
+    "english_info": "The Most High, The One who is clear from the attributes of the creatures",
+    "urdu": "بلندی والا",
+    "english_meaning": "The Most High, The Exalted"
+  },
+  "37": {
+    "key": "37",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:37_al-kabir.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cf/37_al-kabir.ogg"
+    ],
+    "arabic": "الْكَبِيرُ",
+    "arabic_msa": "الكبير",
+    "english_roman": "AL-KABEER",
+    "english": [
+      "The Great",
+      "Ever-Great",
+      "Grand",
+      "Most Great",
+      "Greatly Abundant of Extent, Capacity and Importance"
+    ],
+    "reference": ["13:9", "22:62", "31:30", "34:23"],
+    "grammar": ["D"],
+    "english_info": "The Most Great, The Great, The One who is greater than everything in status",
+    "urdu": "بہت بڑا",
+    "english_meaning": "The Most Great"
+  },
+  "38": {
+    "key": "38",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:38-al-hafiz.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/88/38-al-hafiz.ogg"
+    ],
+    "arabic": "الْحَفِيظُ",
+    "arabic_msa": "الحفيظ",
+    "english_roman": "AL-HAFEEDH",
+    "english": [
+      "The Preserver",
+      "Ever-Preserving",
+      "All-Watching",
+      "Protector",
+      "Guardian",
+      "Oft-Conservator"
+    ],
+    "reference": ["11:57", "34:21", "42:6"],
+    "grammar": ["A"],
+    "english_info": "The Preserver, The Protector, The One who protects whatever and whoever He willed to protect",
+    "urdu": "حفاظت کرنے والا",
+    "english_meaning": "The Preserver"
+  },
+  "39": {
+    "key": "39",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:39-al-muqit.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e6/39-al-muqit.ogg"
+    ],
+    "arabic": "المُقيِت",
+    "arabic_msa": "المقيت",
+    "english_roman": "AL-MUQEET",
+    "english": ["The Nourisher", "Feeder"],
+    "reference": ["4:85"],
+    "grammar": ["I"],
+    "english_info": "The Maintainer, The Guardian, The Feeder, The One who has the Power",
+    "urdu": "روزی پہنچانے والا",
+    "english_meaning": "The Sustainer"
+  },
+  "40": {
+    "key": "40",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:40-al-hasib.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b0/40-al-hasib.ogg"
+    ],
+    "arabic": "اﻟْﺣَسِيبُ",
+    "arabic_msa": "الحسيب",
+    "english_roman": "AL-HASEEB",
+    "english": [
+      "The Bringer of Judgment",
+      "Ever-Reckoner (the One Who Takes Account of All Matters)"
+    ],
+    "reference": ["4:6", "4:86", "33:39"],
+    "grammar": ["I"],
+    "english_info": "The Reckoner, The One who gives the satisfaction",
+    "urdu": "کفایت کرنے والا",
+    "english_meaning": "The Reckoner"
+  },
+  "41": {
+    "key": "41",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:41-al-jalil.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1d/41-al-jalil.ogg"
+    ],
+    "arabic": "الْجَلِيلُ",
+    "arabic_msa": "الجليل",
+    "english_roman": "AL-JALEEL",
+    "english": ["The Majestic", "Exalted", "Oft-Important", "Splendid"],
+    "reference": ["55:27", "7:143"],
+    "grammar": ["A", "V"],
+    "english_info": "The Sublime One, The Beneficent, The One who is attributed with greatness of Power and Glory of status",
+    "urdu": "بزرگی والا",
+    "english_meaning": "The Majestic"
+  },
+  "42": {
+    "key": "42",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:42_al-karim.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7b/42_al-karim.ogg"
+    ],
+    "arabic": "الْكَرِيمُ",
+    "arabic_msa": "الكريم",
+    "english_roman": "AL-KAREEM",
+    "english": [
+      "The Noble",
+      "Bountiful",
+      "Generous",
+      "Precious",
+      "Honored",
+      "Benefactor"
+    ],
+    "reference": ["27:40", "82:6"],
+    "grammar": ["D"],
+    "english_info": "The Generous One, The Gracious, The One who is attributed with greatness of Power and Glory of status",
+    "urdu": "عزت والا",
+    "english_meaning": "The Most Generous, The Most Esteemed"
+  },
+  "43": {
+    "key": "43",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:43-ar-raqib.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/27/43-ar-raqib.ogg"
+    ],
+    "arabic": "الرَّقِيبُ",
+    "arabic_msa": "الرّقيب",
+    "english_roman": "AR-RAQEEB",
+    "english": ["The Watchful", "Observer", "Ever-Watchful", "Watcher"],
+    "reference": ["4:1", "5:117"],
+    "grammar": ["D"],
+    "english_info": "The Watcher, The One that nothing is absent from Him. Hence it’s meaning is related to the attribute of Knowledge",
+    "urdu": "نگہبان",
+    "english_meaning": "The Watchful"
+  },
+  "44": {
+    "key": "44",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:44-al-mujib.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/17/44-al-mujib.ogg"
+    ],
+    "arabic": "ٱلْمُجِيبُ",
+    "arabic_msa": "المجيب",
+    "english_roman": "AL-MUJEEB",
+    "english": [
+      "The Responsive",
+      "Answerer",
+      "Supreme Answerer",
+      "Accepter of Invocation"
+    ],
+    "reference": ["11:61"],
+    "grammar": ["A"],
+    "english_info": "The Responsive, The Hearkener, The One who answers the one in need if he asks Him and rescues the yearner if he calls upon Him",
+    "urdu": "قبول کرنے والا",
+    "english_meaning": "The Responsive One"
+  },
+  "45": {
+    "key": "45",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:45-al-wasi.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d0/45-al-wasi.ogg"
+    ],
+    "arabic": "الْوَاسِعُ",
+    "arabic_msa": "الواسع",
+    "english_roman": "AL-WAASI’",
+    "english": [
+      "The Vast",
+      "All-Embracing",
+      "Omnipresent",
+      "Boundless",
+      "All-Encompassing"
+    ],
+    "reference": ["2:268", "3:73", "5:54"],
+    "grammar": ["A"],
+    "english_info": "The Vast, The All-Embracing, The Knowledgeable",
+    "urdu": "کشائش والا",
+    "english_meaning": "The All-Encompassing, the Boundless"
+  },
+  "46": {
+    "key": "46",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:46-al-hakim.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/62/46-al-hakim.ogg"
+    ],
+    "arabic": "الْحَكِيمُ",
+    "arabic_msa": "الحكيم",
+    "english_roman": "AL-HAKEEM",
+    "english": ["The Wise", "Ever-Wise", "Endowed with Sound Judgment"],
+    "reference": ["31:27", "46:2", "57:1", "66:2"],
+    "grammar": ["D"],
+    "english_info": "The Wise, The Judge of Judges, The One who is correct in His doings",
+    "urdu": "حکمت والا",
+    "english_meaning": "The All-Wise"
+  },
+  "47": {
+    "key": "47",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:47-al-wadud.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/04/47-al-wadud.ogg"
+    ],
+    "arabic": "الْوَدُودُ",
+    "arabic_msa": "الودود",
+    "english_roman": "AL-WADUD",
+    "english": [
+      "The Affectionate",
+      "Ever-Affectionate",
+      "Loving One",
+      "Loving",
+      "the Lover",
+      "the One Who Tenders and Warm Hearts"
+    ],
+    "reference": ["11:90", "85:14"],
+    "grammar": ["D"],
+    "english_info": "The One who loves His believing slaves and His believing slaves love Him. His love to His slaves is His Will to be merciful to them and praise them",
+    "urdu": "محبت کرنے والا",
+    "english_meaning": "The Most Loving"
+  },
+  "48": {
+    "key": "48",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:48-al-majid.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/73/48-al-majid.ogg"
+    ],
+    "arabic": "الْمَجِيدُ",
+    "arabic_msa": "المجيد",
+    "english_roman": "AL-MAJEED",
+    "english": [
+      "The All-Glorious",
+      "Majestic",
+      "Ever-Illustrious (Oft-Brilliant in Dignity, Achievements or Actions)"
+    ],
+    "reference": ["11:73"],
+    "grammar": ["A"],
+    "english_info": "The Most Glorious One, The One who is with perfect Power, High Status, Compassion, Generosity and Kindness",
+    "urdu": "بڑی شان والا",
+    "english_meaning": "The Glorious, The Most Honorable"
+  },
+  "49": {
+    "key": "49",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:49_al-baith.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/97/49_al-baith.ogg"
+    ],
+    "arabic": "الْبَاعِثُ",
+    "arabic_msa": "الباعث",
+    "english_roman": "AL-BA’ITH",
+    "english": ["The Resurrector", "Awakener", "Arouser", "Dispatcher"],
+    "reference": ["22:7"],
+    "grammar": ["V"],
+    "english_info": "The Resurrector, The Raiser (from death), The One who resurrects His slaves after death for reward and/or punishment",
+    "urdu": "اٹھانے والا",
+    "english_meaning": "The Infuser of New Life"
+  },
+  "50": {
+    "key": "50",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:50-ash-shahid.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/08/50-ash-shahid.ogg"
+    ],
+    "arabic": "الشَّهِيدُ",
+    "arabic_msa": "الشّهيد",
+    "english_roman": "ASH-SHAHEED",
+    "english": ["The Witness", "Testifier", "Ever-Witnessing"],
+    "reference": ["4:166", "22:17", "41:53", "48:28"],
+    "grammar": ["A"],
+    "english_info": "The Witness, The One who nothing is absent from Him",
+    "urdu": "حاضر ، گواہ",
+    "english_meaning": "The All Observing Witnessing"
+  },
+  "51": {
+    "key": "51",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:51-al-haqq.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/51-al-haqq.ogg"
+    ],
+    "arabic": "الْحَقُ",
+    "arabic_msa": "الحقّ",
+    "english_roman": "AL-HAQQ",
+    "english": [
+      "The Truth",
+      "Reality",
+      "the Only One Certainly Sound and Genuine in Truth"
+    ],
+    "reference": ["6:62", "22:6", "23:116", "24:25"],
+    "grammar": ["D"],
+    "english_info": "The Truth, The True, The One who truly exists",
+    "urdu": "سچا مالک",
+    "english_meaning": "The Absolute Truth"
+  },
+  "52": {
+    "key": "52",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:52-al-wakil.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b1/52-al-wakil.ogg"
+    ],
+    "arabic": "الْوَكِيلُ",
+    "arabic_msa": "الوكيل",
+    "english_roman": "AL-WAKEEL",
+    "english": ["The Trustee", "The Dependable", "The Advocate"],
+    "reference": ["3:173", "4:171", "28:28", "73:9"],
+    "grammar": ["A"],
+    "english_info": "The Trustee, The One who gives the satisfaction and is relied upon",
+    "urdu": "کام بنانے والا",
+    "english_meaning": "The Trustee, The Disposer of Affairs"
+  },
+  "53": {
+    "key": "53",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:53-al-qawi.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/43/53-al-qawi.ogg"
+    ],
+    "arabic": "الْقَوِيُّ",
+    "arabic_msa": "القويّ",
+    "english_roman": "AL-QAWIYY",
+    "english": ["The Strong"],
+    "reference": ["22:40", "22:74", "42:19", "57:25"],
+    "grammar": ["D"],
+    "english_info": "The Most Strong, The Strong, The One with the complete Power",
+    "urdu": "زور آور",
+    "english_meaning": "The All-Strong"
+  },
+  "54": {
+    "key": "54",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:54-al-matin.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8e/54-al-matin.ogg"
+    ],
+    "arabic": "الْمَتِينُ",
+    "arabic_msa": "المتين",
+    "english_roman": "AL-MATEEN",
+    "english": ["The Firm", "The Steadfast"],
+    "reference": ["51:58"],
+    "grammar": ["D"],
+    "english_info": "The One with extreme Power which is un-interrupted and He does not get tired",
+    "urdu": "قوت والا",
+    "english_meaning": "The Firm, The Steadfast"
+  },
+  "55": {
+    "key": "55",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:55-al-wali.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6a/55-al-wali.ogg"
+    ],
+    "arabic": "الْوَلِيُّ",
+    "arabic_msa": "الوليّ",
+    "english_roman": "AL-WALIYY",
+    "english": ["The Friend", "The Helper"],
+    "reference": ["4:45", "7:196", "42:28", "45:19"],
+    "grammar": ["D"],
+    "english_info": "The Protecting Friend, The Supporter",
+    "urdu": "حمایت کرنے والا",
+    "english_meaning": "The Protecting Associate"
+  },
+  "56": {
+    "key": "56",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:56-al-hamid.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f3/56-al-hamid.ogg"
+    ],
+    "arabic": "الْحَمِيدُ",
+    "arabic_msa": "الحميد",
+    "english_roman": "AL-HAMEED",
+    "english": ["The All Praiseworthy"],
+    "reference": ["14:8", "31:12", "31:26", "41:42"],
+    "grammar": ["D"],
+    "english_info": "The Praiseworthy, The praised One who deserves to be praised",
+    "urdu": "خوبیاں والا",
+    "english_meaning": "The Praiseworthy"
+  },
+  "57": {
+    "key": "57",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:57-al-muhsi.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/57-al-muhsi.ogg"
+    ],
+    "arabic": "الْمُحْصِي",
+    "arabic_msa": "المحصي",
+    "english_roman": "AL-MUHSEE",
+    "english": ["The Accounter", "The Numberer of All"],
+    "reference": ["72:28", "78:29"],
+    "grammar": ["V"],
+    "english_info": "The Counter, The Reckoner, The One who the count of things are known to him",
+    "urdu": "گننے والا",
+    "english_meaning": "The All-Enumerating, The Counter"
+  },
+  "58": {
+    "key": "58",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:58-al-mubdi.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/06/58-al-mubdi.ogg"
+    ],
+    "arabic": "الْمُبْدِئُ",
+    "arabic_msa": "المبدئ",
+    "english_roman": "AL-MUBDI",
+    "english": ["The Originator", "The Producer", "The Initiator"],
+    "reference": ["10:34", "27:64", "29:19", "85:13"],
+    "grammar": ["V"],
+    "english_info": "The One who started the human being. That is, He created him",
+    "urdu": "پہلی بار پیدا کرنے والا",
+    "english_meaning": "The Originator, The Initiator"
+  },
+  "59": {
+    "key": "59",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:59-al-muid.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9e/59-al-muid.ogg"
+    ],
+    "arabic": "ٱلْمُعِيدُ",
+    "arabic_msa": "المعيد",
+    "english_roman": "AL-MUEED",
+    "english": ["The Restorer", "The Reinstater Who Brings Back All"],
+    "reference": ["10:34", "27:64", "29:19", "85:13"],
+    "grammar": ["V"],
+    "english_info": "The Reproducer, The One who brings back the creatures after death",
+    "urdu": "دوبارہ پیدا کرنے والا",
+    "english_meaning": "The Restorer, The Reinstater"
+  },
+  "60": {
+    "key": "60",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:60-al-muhyi.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/60-al-muhyi.ogg"
+    ],
+    "arabic": "الْمُحْيِي",
+    "arabic_msa": "المحيى",
+    "english_roman": "AL-MUHYI",
+    "english": ["The Giver of Life"],
+    "reference": ["7:158", "15:23", "30:50", "57:2"],
+    "grammar": ["V"],
+    "english_info": "The Restorer, The Giver of Life, The One who took out a living human from semen that does not have a soul. He gives life by giving the souls back to the worn-out bodies on the resurrection day and He makes the hearts alive by the light of knowledge",
+    "urdu": "زندہ کرنے والا",
+    "english_meaning": "The Giver of Life"
+  },
+  "61": {
+    "key": "61",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:61-al-mumit.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/78/61-al-mumit.ogg"
+    ],
+    "arabic": "اَلْمُمِيتُ",
+    "arabic_msa": "المميت",
+    "english_roman": "AL-MUMEET",
+    "english": ["The Bringer of Death"],
+    "reference": ["3:156", "7:158", "15:23", "57:2"],
+    "grammar": ["V"],
+    "english_info": "The Creator of Death, The Destroyer, The One who renders the living dead",
+    "urdu": "مارنے والا",
+    "english_meaning": "The Creator of Death"
+  },
+  "62": {
+    "key": "62",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:62-al-hayy.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/65/62-al-hayy.ogg"
+    ],
+    "arabic": "الْحَيُّ",
+    "arabic_msa": "الحىّ",
+    "english_roman": "AL-HAYY",
+    "english": ["The Living"],
+    "reference": ["2:255", "3:2", "20:111", "25:58", "40:65"],
+    "grammar": ["D"],
+    "english_info": "The Alive, The One attributed with a life that is unlike our life and is not that of a combination of soul, flesh or blood",
+    "urdu": "زندہ",
+    "english_meaning": "The Ever-Living"
+  },
+  "63": {
+    "key": "63",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:63-al-qayyum.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/42/63-al-qayyum.ogg"
+    ],
+    "arabic": "الْقَيُّومُ",
+    "arabic_msa": "القيّوم",
+    "english_roman": "AL-QAYYOOM",
+    "english": ["The Subsisting", "The Independent"],
+    "reference": ["2:255", "3:2", "20:111"],
+    "grammar": ["D"],
+    "english_info": "The One who remains and does not end",
+    "urdu": "سب کا تھامنے والا",
+    "english_meaning": "The Sustainer, The Self-Subsisting"
+  },
+  "64": {
+    "key": "64",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:64-al-wajid.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/16/64-al-wajid.ogg"
+    ],
+    "arabic": "الْوَاجِدُ",
+    "arabic_msa": "الوٰجد",
+    "english_roman": "AL-WAAJID",
+    "english": ["The Perceiver", "The Finder", "The Unfailing"],
+    "reference": ["38:44"],
+    "grammar": ["V"],
+    "english_info": "The Perceiver, The Finder, The Rich who is never poor. Al-Wajd is Richness",
+    "urdu": "پانے والا",
+    "english_meaning": "The Perceiver"
+  },
+  "65": {
+    "key": "65",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:65-al-majid.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/65-al-majid.ogg"
+    ],
+    "arabic": "الْمَاجِدُ",
+    "arabic_msa": "الماجد",
+    "english_roman": "AL-MAAJID",
+    "english": ["The Illustrious", "The Magnificent"],
+    "reference": ["85:15", "11:73", "al-Kafʿamī (1992:48)"],
+    "grammar": ["A"],
+    "english_info": "The Glorious, He who is Most Glorious",
+    "urdu": "عزت والا",
+    "english_meaning": "The Illustrious, the Magnificent"
+  },
+  "66": {
+    "key": "66",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:66-al-wahid.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8c/66-al-wahid.ogg"
+    ],
+    "arabic": "الْواحِدُ",
+    "arabic_msa": "الوٰحد",
+    "english_roman": "AL-WAAHID",
+    "english": ["The Unique", "The Single"],
+    "reference": ["13:16", "14:48", "38:65", "39:4"],
+    "grammar": ["D"],
+    "english_info": "The Unique, The One, The One without a partner",
+    "urdu": "اکیلا",
+    "english_meaning": "The One"
+  },
+  "67": {
+    "key": "67",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:67-al-ahad.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/38/67-al-ahad.ogg"
+    ],
+    "arabic": "اَلاَحَدُ",
+    "arabic_msa": "",
+    "english_roman": "AL-AHAD",
+    "english": ["The One", "The Indivisible"],
+    "reference": ["112:1"],
+    "grammar": ["A"],
+    "english_info": "The One",
+    "urdu": "ایک",
+    "english_meaning": "The Unique, The Only One"
+  },
+  "68": {
+    "key": "68",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:68-as-samad.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c5/68-as-samad.ogg"
+    ],
+    "arabic": "الصَّمَدُ",
+    "arabic_msa": "الصّمد",
+    "english_roman": "AS-SAMAD",
+    "english": ["The Eternal", "The Absolute", "The Self-Sufficient"],
+    "reference": ["112:2"],
+    "grammar": ["D"],
+    "english_info": "The Eternal, The Independent, The Master who is relied upon in matters and reverted to in ones needs",
+    "urdu": "بے احتیاج",
+    "english_meaning": "The Eternal, Satisfier of Needs"
+  },
+  "69": {
+    "key": "69",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:69-al-qadir.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d7/69-al-qadir.ogg"
+    ],
+    "arabic": "الْقَادِرُ",
+    "arabic_msa": "القـٰدر",
+    "english_roman": "AL-QADEER",
+    "english": ["The All-Powerful", "He Who is able to do Everything"],
+    "reference": ["6:65", "46:33", "75:40"],
+    "grammar": ["D"],
+    "english_info": "The Able, The Capable, The One attributed with Power",
+    "urdu": "قدرت والا",
+    "english_meaning": "The Omnipotent One"
+  },
+  "70": {
+    "key": "70",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:70-al-muqtadir.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/70-al-muqtadir.ogg"
+    ],
+    "arabic": "الْمُقْتَدِّمُ",
+    "arabic_msa": "المقتدر",
+    "english_roman": "AL-MUQTADIR",
+    "english": ["The Determiner", "The Dominant"],
+    "reference": ["18:45", "54:42", "6:65"],
+    "grammar": ["A"],
+    "english_info": "The Powerful, The Dominant, The One with the perfect Power that nothing is withheld from Him",
+    "urdu": "مقدور والا",
+    "english_meaning": "The Powerful"
+  },
+  "71": {
+    "key": "71",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:71-al-muqaddim.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/71-al-muqaddim.ogg"
+    ],
+    "arabic": "الْمُقَدِّمُ",
+    "arabic_msa": "المقدّم",
+    "english_roman": "AL-MUQADDIM",
+    "english": ["The Expediter", "He Who Brings Forward"],
+    "reference": ["16:61"],
+    "grammar": ["V"],
+    "english_info": "The Expediter, The Promoter, The One who puts things in their right places. He makes ahead what He wills and delays what He wills",
+    "urdu": "آگے کرنے والا",
+    "english_meaning": "The Expediter, The Promoter"
+  },
+  "72": {
+    "key": "72",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:72-al-muakhkhir.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fb/72-al-muakhkhir.ogg"
+    ],
+    "arabic": "الْمُؤَخِّرُ",
+    "arabic_msa": "المؤخّر",
+    "english_roman": "AL-MU’AKHKHIR",
+    "english": ["The Delayer", "He Who Puts Far Away"],
+    "reference": ["71:4"],
+    "grammar": ["V"],
+    "english_info": "The Delayer, the Retarder, The One who puts things in their right places. He makes ahead what He wills and delays what He wills",
+    "urdu": "پیچھے کرنے والا",
+    "english_meaning": "The Delayer"
+  },
+  "73": {
+    "key": "73",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:73-al-awwal.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2e/73-al-awwal.ogg"
+    ],
+    "arabic": "الأوَّلُ",
+    "arabic_msa": "الأوّل",
+    "english_roman": "AL-AWWAL",
+    "english": ["The First", "The Beginning-less"],
+    "reference": ["57:3"],
+    "grammar": ["D"],
+    "english_info": "The First, The One whose Existence is without a beginning",
+    "urdu": "سب سے پہلے",
+    "english_meaning": "The First"
+  },
+  "74": {
+    "key": "74",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:74-al-akhir.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8d/74-al-akhir.ogg"
+    ],
+    "arabic": "الآخِرُ",
+    "arabic_msa": "الاخر",
+    "english_roman": "AL-AAKHIR",
+    "english": ["The Last", "The Endless"],
+    "reference": ["57:3"],
+    "grammar": ["D"],
+    "english_info": "The Last, The One whose Existence is without an end",
+    "urdu": "سب سے آخر",
+    "english_meaning": "The Last"
+  },
+  "75": {
+    "key": "75",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:75-az-zahir.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/80/75-az-zahir.ogg"
+    ],
+    "arabic": "الظَّاهِرُ",
+    "arabic_msa": "الظاهر",
+    "english_roman": "AZ-ZAAHIR",
+    "english": ["The Manifest", "The Evident", "The Outer"],
+    "reference": ["57:3"],
+    "grammar": ["D"],
+    "english_info": "The Manifest, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies",
+    "urdu": "ظاہر",
+    "english_meaning": "The Manifest"
+  },
+  "76": {
+    "key": "76",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:76-al-batin.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/46/76-al-batin.ogg"
+    ],
+    "arabic": "الْبَاطِنُ",
+    "arabic_msa": "الباطن",
+    "english_roman": "AL-BAATIN",
+    "english": ["The Hidden", "The Unmanifest", "The Inner"],
+    "reference": ["57:3"],
+    "grammar": ["D"],
+    "english_info": "The Hidden, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies",
+    "urdu": "پوشیدہ",
+    "english_meaning": "The Hidden One, Knower of the Hidden"
+  },
+  "77": {
+    "key": "77",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:77-al-wali.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/53/77-al-wali.ogg"
+    ],
+    "arabic": "الْوَالِي",
+    "arabic_msa": "الوالى",
+    "english_roman": "AL-WAALI",
+    "english": ["The Patron", "The Protecting Friend", "The Friendly Lord"],
+    "reference": ["13:11"],
+    "grammar": ["I"],
+    "english_info": "The Governor, The One who owns things and manages them",
+    "urdu": "مالک",
+    "english_meaning": "The Sole Governor"
+  },
+  "78": {
+    "key": "78",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:78-al-mutaali.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/da/78-al-mutaali.ogg"
+    ],
+    "arabic": "الْمُتَعَالِي",
+    "arabic_msa": "المتعالي",
+    "english_roman": "AL-MUTA’ALI",
+    "english": ["The Supremely Exalted", "The Most High"],
+    "reference": ["13:9"],
+    "grammar": ["D"],
+    "english_info": "The Most Exalted, The High Exalted, The One who is clear from the attributes of the creation",
+    "urdu": "بلند صفتوں والا",
+    "english_meaning": "The Self Exalted"
+  },
+  "79": {
+    "key": "79",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:79-al-barr.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d8/79-al-barr.ogg"
+    ],
+    "arabic": "الْبَرُّ",
+    "arabic_msa": "البرّ",
+    "english_roman": "AL-BARR",
+    "english": ["The Good", "The Beneficent"],
+    "reference": ["52:28"],
+    "grammar": ["D"],
+    "english_info": "The Source of All Goodness, The Righteous, The One who is kind to His creatures, who covered them with His sustenance and specified whoever He willed among them by His support, protection, and special mercy",
+    "urdu": "احسان کرنے والا",
+    "english_meaning": "The Source of All Goodness"
+  },
+  "80": {
+    "key": "80",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:80-at-tawwab.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/15/80-at-tawwab.ogg"
+    ],
+    "arabic": "التَّوَابُ",
+    "arabic_msa": "",
+    "english_roman": "AT-TAWWAB",
+    "english": ["The Ever-Returning", "Ever-Relenting"],
+    "reference": ["2:128", "4:64", "49:12", "110:3"],
+    "grammar": ["D"],
+    "english_info": "The Relenting, The One who grants repentance to whoever He willed among His creatures and accepts his repentance",
+    "urdu": "توبہ قبول کرنے والا",
+    "english_meaning": "The Ever-Pardoning"
+  },
+  "81": {
+    "key": "81",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:81-al-muntaqim.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cc/81-al-muntaqim.ogg"
+    ],
+    "arabic": "الْمُنْتَقِمُ",
+    "arabic_msa": "المنتقم",
+    "english_roman": "AL-MUNTAQIM",
+    "english": ["The Avenger"],
+    "reference": ["32:22", "43:41", "44:16"],
+    "grammar": ["P"],
+    "english_info": "The Avenger, The One who victoriously prevails over His enemies and punishes them for their sins. It may mean the One who destroys them",
+    "urdu": "بدلہ کرنے والا",
+    "english_meaning": "The Avenger"
+  },
+  "82": {
+    "key": "82",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:82-al-afuw.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/05/82-al-afuw.ogg"
+    ],
+    "arabic": "العَفُوُّ",
+    "arabic_msa": "العفوّ",
+    "english_roman": "AL-‘AFUWW",
+    "english": ["The Pardoner", "The Effacer", "The Forgiver"],
+    "reference": ["4:43", "4:99", "4:149", "22:60", "58:2"],
+    "grammar": ["V", "I"],
+    "english_info": "The Forgiver, The One with wide forgiveness",
+    "urdu": "معاف کرنے والا",
+    "english_meaning": "The Pardoner"
+  },
+  "83": {
+    "key": "83",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:83-ar-rauf.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/83-ar-rauf.ogg"
+    ],
+    "arabic": "الرَّؤُوفُ",
+    "arabic_msa": "الرّءوف",
+    "english_roman": "AR-RA’OOF",
+    "english": ["The Kind", "The Pitying"],
+    "reference": ["9:117", "57:9", "59:10"],
+    "grammar": ["I"],
+    "english_info": "The Compassionate, The One with extreme Mercy. The Mercy of Allah is His will to endow upon whoever He willed among His creatures",
+    "urdu": "نرمی کرنے والا",
+    "english_meaning": "The Most Kind"
+  },
+  "84": {
+    "key": "84",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:84-malik-ul-mulk.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/01/84-malik-ul-mulk.ogg"
+    ],
+    "arabic": "مَالِكُ ٱلْمُلْكُ",
+    "arabic_msa": "مـٰلك الملك",
+    "english_roman": "MAALIK-UL-MULK",
+    "english": ["The Owner of all Sovereignty"],
+    "reference": ["3:26"],
+    "grammar": ["D"],
+    "english_info": "The One who controls the Dominion and gives dominion to whoever He willed",
+    "urdu": "بادشاہی کا مالک",
+    "english_meaning": "Master of the Kingdom, Owner of the Dominion"
+  },
+  "85": {
+    "key": "85",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:85-dhul-jalaal-wal-ikraam.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/85-dhul-jalaal-wal-ikraam.ogg"
+    ],
+    "arabic": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+    "arabic_msa": "ذو الجلال ولإكرام",
+    "english_roman": "DHUL-JALAALI WAL-IKRAAM",
+    "english": ["The Owner", "Lord of Majesty and Honour"],
+    "reference": ["55:27", "55:78"],
+    "grammar": ["D"],
+    "english_info": "The Lord of Majesty and Bounty, The One who deserves to be Exalted and not denied",
+    "urdu": "جلال اور انعام والا",
+    "english_meaning": "Lord of Glory and Honour, Lord of Majesty and Generosity"
+  },
+  "86": {
+    "key": "86",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:86-al-muqsit.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/29/86-al-muqsit.ogg"
+    ],
+    "arabic": "الْمُقْسِطُ",
+    "arabic_msa": "المقسط",
+    "english_roman": "AL-MUQSIT",
+    "english": ["The Equitable", "The Requiter"],
+    "reference": ["3:18", "al-Kafʿamī (1992:58f)"],
+    "grammar": ["O"],
+    "english_info": "The Equitable, The One who is Just in His judgment",
+    "urdu": "انصاف کرنے والا",
+    "english_meaning": "The Just One"
+  },
+  "87": {
+    "key": "87",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:87-al-jame.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/27/87-al-jame.ogg"
+    ],
+    "arabic": "الْجَامِعُ",
+    "arabic_msa": "الجامع",
+    "english_roman": "AL-JAAMI’",
+    "english": ["The Gatherer", "The Unifier"],
+    "reference": ["3:9"],
+    "grammar": ["I"],
+    "english_info": "The Gatherer, The One who gathers the creatures on a day that there is no doubt about, that is the Day of Judgment",
+    "urdu": "اکھٹا کرنے والا",
+    "english_meaning": "The Gatherer, the Uniter"
+  },
+  "88": {
+    "key": "88",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:88-al-ghani.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/88-al-ghani.ogg"
+    ],
+    "arabic": "ٱلْغَنيُّ",
+    "arabic_msa": "الغنيّ",
+    "english_roman": "AL-GHANIYY",
+    "english": ["The Rich", "The Independent"],
+    "reference": ["39:7", "47:38", "57:24"],
+    "grammar": ["I", "A", "D"],
+    "english_info": "The One who does not need the creation",
+    "urdu": "بے پروا",
+    "english_meaning": "The Self-Sufficient, The Wealthy"
+  },
+  "89": {
+    "key": "89",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:89-al-mughni.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b3/89-al-mughni.ogg"
+    ],
+    "arabic": "ٱلْمُغْنِيُّ",
+    "arabic_msa": "المغنيّ",
+    "english_roman": "AL-MUGHNI",
+    "english": ["The Enricher", "The Emancipator"],
+    "reference": ["9:28"],
+    "grammar": ["V"],
+    "english_info": "The Enricher, The One who satisfies the necessities of the creatures",
+    "urdu": "بے پروا کرنے والا",
+    "english_meaning": "The Enricher"
+  },
+  "90": {
+    "key": "90",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:90-al-mani.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ad/90-al-mani.ogg"
+    ],
+    "arabic": "اَلْمَانِعُ",
+    "arabic_msa": "المانع",
+    "english_roman": "AL-MANI’",
+    "english": [
+      "The Preventer",
+      "The Withholder",
+      "The Shielder",
+      "The Defender"
+    ],
+    "reference": ["See al-Kafʿamī (1992:61)"],
+    "grammar": [""],
+    "english_info": "The Withholder",
+    "urdu": "روکنے والا",
+    "english_meaning": "The Withholder"
+  },
+  "91": {
+    "key": "91",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:91-ad-darr.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/86/91-ad-darr.ogg"
+    ],
+    "arabic": "الضَّارَ",
+    "arabic_msa": "الضّار",
+    "english_roman": "AD-DHARR",
+    "english": ["The Distressor", "The Harmer", "The Afflictor"],
+    "reference": ["6:17", "al-Kafʿamī (1992:58)"],
+    "grammar": [""],
+    "english_info": "The One who makes harm reach to whoever He willed and benefit to whoever He willed",
+    "urdu": "نقصان پہنچانے والا",
+    "english_meaning": "The Distresser"
+  },
+  "92": {
+    "key": "92",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:92-an-nafi.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0e/92-an-nafi.ogg"
+    ],
+    "arabic": "النَّافِعُ",
+    "arabic_msa": "النّافع",
+    "english_roman": "AN-NAFI’",
+    "english": ["The Propitious", "The Benefactor", "The Source of Good"],
+    "reference": ["30:37"],
+    "grammar": [""],
+    "english_info": "The Propitious, The One who makes harm reach to whoever He willed and benefit to whoever He willed",
+    "urdu": "نفع پہنچانے والا",
+    "english_meaning": "The Propitious, the Benefactor"
+  },
+  "93": {
+    "key": "93",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:93-an-nur.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fa/93-an-nur.ogg"
+    ],
+    "arabic": "النُّورُ",
+    "arabic_msa": "النّور",
+    "english_roman": "AN-NUR",
+    "english": ["The Light"],
+    "reference": ["24:35"],
+    "grammar": ["I"],
+    "english_info": "The Light, The One who guides",
+    "urdu": "روشن کرنے والا",
+    "english_meaning": "The Light, The Illuminator"
+  },
+  "94": {
+    "key": "94",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:94-al-hadi.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/07/94-al-hadi.ogg"
+    ],
+    "arabic": "الْهَادِي",
+    "arabic_msa": "الهادي",
+    "english_roman": "AL-HAADI",
+    "english": ["The Guide", "The Way"],
+    "reference": ["22:54"],
+    "grammar": ["I"],
+    "english_info": "The Guide, The One whom with His Guidance His believers were guided, and with His Guidance the living beings have been guided to what is beneficial for them and protected from what is harmful to them",
+    "urdu": "ہدایت دینے والا",
+    "english_meaning": "The Guide"
+  },
+  "95": {
+    "key": "95",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:95-al-badi.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2b/95-al-badi.ogg"
+    ],
+    "arabic": "الْبَدِيعُ",
+    "arabic_msa": "البديع",
+    "english_roman": "AL-BADEE’",
+    "english": [
+      "The Originator",
+      "The Incomparable",
+      "The Unattainable",
+      "The Beautiful"
+    ],
+    "reference": ["2:117", "6:101"],
+    "grammar": ["I"],
+    "english_info": "The Incomparable, The One who created the creation and formed it without any preceding example",
+    "urdu": "نئی طرح پیدا کرنے والا",
+    "english_meaning": "The Incomparable Originator"
+  },
+  "96": {
+    "key": "96",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:96-al-baqi.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/29/96-al-baqi.ogg"
+    ],
+    "arabic": "اَلْبَاقِي",
+    "arabic_msa": "الباقي",
+    "english_roman": "AL-BAAQI",
+    "english": ["The Immutable", "The Infinite", "The Everlasting"],
+    "reference": ["55:27", "al-Kafʿamī (1992:64)"],
+    "grammar": ["V"],
+    "english_info": "The Everlasting, The One that the state of non-existence is impossible for Him",
+    "urdu": "باقی رہنے والا",
+    "english_meaning": "The Everlasting"
+  },
+  "97": {
+    "key": "97",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:97-al-warith.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/97-al-warith.ogg"
+    ],
+    "arabic": "الْوَارِثُ",
+    "arabic_msa": "الوارث",
+    "english_roman": "AL-WAARITH",
+    "english": ["The Heir", "The Inheritor of All"],
+    "reference": ["15:23", "57:10"],
+    "grammar": ["P"],
+    "english_info": "The Heir, The One whose Existence remains",
+    "urdu": "سب کا وارث",
+    "english_meaning": "The Inheritor, The Heir"
+  },
+  "98": {
+    "key": "98",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:98-ar-rashid.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e1/98-ar-rashid.ogg"
+    ],
+    "arabic": "الرَّشِيدُ",
+    "arabic_msa": "الرّشيد",
+    "english_roman": "AR-RASHEED",
+    "english": ["The Guide to the Right Path"],
+    "reference": ["Not mentioned in the Quran"],
+    "grammar": [""],
+    "english_info": "The Guide to the Right Path, The One who guides",
+    "urdu": "نیک راہ بتانے والا",
+    "english_meaning": "The Guide, Infallible Teacher"
+  },
+  "99": {
+    "key": "99",
+    "sound": [
+      "https://simple.wikipedia.org/wiki/File:99-as-sabur.ogg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/99-as-sabur.ogg"
+    ],
+    "arabic": "الصَّبُورُ",
+    "arabic_msa": "الصّبور",
+    "english_roman": "AS-SABOOR",
+    "english": ["The Timeless", "The Patient"],
+    "reference": ["2:153", "3:200", "103:3"],
+    "grammar": ["I"],
+    "english_info": "The Patient, The One who does not quickly punish the sinners",
+    "urdu": "صبر کرنے والا",
+    "english_meaning": "The Forbearing, The Patient"
+  }
+}
