@@ -1,11 +1,15 @@
+import { useContext } from "react";
+import { View } from "react-native";
+import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+
+// Components
 import AppText from "@/components/AppText";
 import IconButton from "@/components/IconButton";
 import { AppContext } from "@/context/AppContext";
+
+// Screens
 import FavNamesList from "@/screens/FavNamesList";
 import NamesList from "@/screens/NamesList";
-import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import { useContext } from "react";
-import { View } from "react-native";
 
 // Create bottom tab navigator instance
 const Tab = createBottomTabNavigator();

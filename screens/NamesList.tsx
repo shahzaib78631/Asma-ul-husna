@@ -1,6 +1,7 @@
 import React, { useContext } from "react";
-import { StyleSheet, Text, View } from "react-native";
+import { View } from "react-native";
 
+// Context
 import { AppContext } from "@/context/AppContext";
 
 // Components
@@ -26,11 +27,11 @@ const NamesList: React.FC = () => {
       </View>
       <List
         data={filteredResults}
-        id="key"
+        id="id"
         renderComponent={({ item }) => (
           <ListCard
-            onFavPress={toggleFavourite}
-            isFav={favourites?.[item.key]}
+            onFavPress={(key: string) => toggleFavourite(key)}
+            isFav={favourites?.[item.id]}
             item={item}
           />
         )}

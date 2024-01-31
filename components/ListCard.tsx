@@ -15,25 +15,29 @@ import { Theme } from "@/types/theme";
 
 interface ListCardProps {
   item: {
-    key: string;
+    id: string;
     english_roman: string;
     arabic: string;
     english_info: string;
   };
   isFav: boolean;
-  onFavPress: (key: string) => void;
+  onFavPress: (id: string) => void;
 }
 
 /**
  * A card component to display list items with various information and controls.
  *
  * @param {ListCardProps} props - The component props.
- * @param {object} props.item - The item to display, containing key, english_roman, arabic, and english_info.
+ * @param {object} props.item - The item to display, containing id, english_roman, arabic, and english_info.
  * @param {boolean} props.isFav - Whether the item is marked as a favorite.
  * @param {Function} props.onFavPress - Function to call when the favorite button is pressed.
  * @returns {React.ReactElement} - A view component representing a card in a list.
  */
-const ListCard: React.FC<ListCardProps> = ({ item, isFav, onFavPress }) => {
+const ListCard: React.FC<ListCardProps> = ({
+  item,
+  isFav,
+  onFavPress,
+}: ListCardProps): React.ReactElement => {
   const {
     themeStyles: theme,
     playingName,
@@ -46,7 +50,7 @@ const ListCard: React.FC<ListCardProps> = ({ item, isFav, onFavPress }) => {
 
   // Toggles the playing state for the item
   const togglePlaying = () => {
-    setPlayingName(playingName === item.key && isPlaying ? 0 : item.key);
+    setPlayingName(playingName === item.id && isPlaying ? 0 : item.id);
   };
 
   return (
@@ -55,7 +59,7 @@ const ListCard: React.FC<ListCardProps> = ({ item, isFav, onFavPress }) => {
         {/* Play/Pause button */}
         <IconButton
           name={
-            playingName === item.key && isPlaying
+            playingName === item.id && isPlaying
               ? "pause-outline"
               : "play-outline"
           }
@@ -70,11 +74,11 @@ const ListCard: React.FC<ListCardProps> = ({ item, isFav, onFavPress }) => {
           size={20}
           library="MaterialCommunityIcons"
           color={theme.accent}
-          onPress={() => onFavPress(item.key)}
+          onPress={() => onFavPress(item.id)}
         />
         {/* Numeric counter */}
         <View style={styles.countContainer}>
-          <NumericCounter count={item.key} color={theme.accent} />
+          <NumericCounter count={item.id} color={theme.accent} />
         </View>
       </View>
       <View style={styles.separator} />

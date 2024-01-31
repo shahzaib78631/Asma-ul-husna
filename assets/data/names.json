@@ -1,6 +1,6 @@
 {
   "1": {
-    "key": "1",
+    "id": "1",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:01-ar-rahman.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/8/8a/01-ar-rahman.ogg"
@@ -18,7 +18,7 @@
     "english_meaning": "The Beneficent"
   },
   "2": {
-    "key": "2",
+    "id": "2",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:02-ar-rahim.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/e/e6/02-ar-rahim.ogg"
@@ -41,7 +41,7 @@
     "english_meaning": "The Merciful"
   },
   "3": {
-    "key": "3",
+    "id": "3",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:03-al-malik.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/6/62/03-al-malik.ogg"
@@ -57,7 +57,7 @@
     "english_meaning": "The King"
   },
   "4": {
-    "key": "4",
+    "id": "4",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:04-al-quddus.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/c/ce/04-al-quddus.ogg"
@@ -73,7 +73,7 @@
     "english_meaning": "The Most Sacred"
   },
   "5": {
-    "key": "5",
+    "id": "5",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:05-as-salam.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/5/51/05-as-salam.ogg"
@@ -89,7 +89,7 @@
     "english_meaning": "The Source of Peace, The Flawless"
   },
   "6": {
-    "key": "6",
+    "id": "6",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:06-al-mumin.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/6/68/06-al-mumin.ogg"
@@ -112,7 +112,7 @@
     "english_meaning": "The Infuser of Faith"
   },
   "7": {
-    "key": "7",
+    "id": "7",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:07-al-muhaymin.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/e/ef/07-al-muhaymin.ogg"
@@ -134,7 +134,7 @@
     "english_meaning": "The Preserver of Safety"
   },
   "8": {
-    "key": "8",
+    "id": "8",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:08-al-aziz.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/f/f9/08-al-aziz.ogg"
@@ -156,7 +156,7 @@
     "english_meaning": "All Mighty"
   },
   "9": {
-    "key": "9",
+    "id": "9",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:09-al-jabbar.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/e/e5/09-al-jabbar.ogg"
@@ -177,7 +177,7 @@
     "english_meaning": "The Compeller, The Restorer"
   },
   "10": {
-    "key": "10",
+    "id": "10",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:10-al-mutakabbir.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/a/a9/10-al-mutakabbir.ogg"
@@ -193,7 +193,7 @@
     "english_meaning": "The Supreme, The Majestic"
   },
   "11": {
-    "key": "11",
+    "id": "11",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:11-al-khaliq.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/a/a6/11-al-khaliq.ogg"
@@ -215,7 +215,7 @@
     "english_meaning": "The Creator, The Maker"
   },
   "12": {
-    "key": "12",
+    "id": "12",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:12-al-bari.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/0/0b/12-al-bari.ogg"
@@ -236,7 +236,7 @@
     "english_meaning": "The Evolver"
   },
   "13": {
-    "key": "13",
+    "id": "13",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:13-al-musawwir.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/d/dc/13-al-musawwir.ogg"
@@ -252,7 +252,7 @@
     "english_meaning": "The Fashioner"
   },
   "14": {
-    "key": "14",
+    "id": "14",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:14-al-ghaffar.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/e/ea/14-al-ghaffar.ogg"
@@ -273,7 +273,7 @@
     "english_meaning": "The Constant Forgiver"
   },
   "15": {
-    "key": "15",
+    "id": "15",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:15-al-qahhar.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/d/d1/15-al-qahhar.ogg"
@@ -294,7 +294,7 @@
     "english_meaning": "The All-Prevailing One"
   },
   "16": {
-    "key": "16",
+    "id": "16",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:16-al-wahhab.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/c/c6/16-al-wahhab.ogg"
@@ -310,7 +310,7 @@
     "english_meaning": "The Supreme Bestower"
   },
   "17": {
-    "key": "17",
+    "id": "17",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:17-ar-razzaq.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/4/43/17-ar-razzaq.ogg"
@@ -331,7 +331,7 @@
     "english_meaning": "The Provider"
   },
   "18": {
-    "key": "18",
+    "id": "18",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:18-al-fattah.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/4/4e/18-al-fattah.ogg"
@@ -352,7 +352,7 @@
     "english_meaning": "The Supreme Solver"
   },
   "19": {
-    "key": "19",
+    "id": "19",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:19-al-alim.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/9/96/19-al-alim.ogg"
@@ -374,7 +374,7 @@
     "english_meaning": "The All-Knowing"
   },
   "20": {
-    "key": "20",
+    "id": "20",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:20-al-qabid.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/2/27/20-al-qabid.ogg"
@@ -395,7 +395,7 @@
     "english_meaning": "The Withholder"
   },
   "21": {
-    "key": "21",
+    "id": "21",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:21-al-basit.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/c/c0/21-al-basit.ogg"
@@ -411,7 +411,7 @@
     "english_meaning": "The Extender"
   },
   "22": {
-    "key": "22",
+    "id": "22",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:22-al-khafid.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/f/fa/22-al-khafid.ogg"
@@ -431,7 +431,7 @@
     "english_meaning": "The Reducer"
   },
   "23": {
-    "key": "23",
+    "id": "23",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:23-ar-rafi.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/9/96/23-ar-rafi.ogg"
@@ -447,7 +447,7 @@
     "english_meaning": "The Exalter, The Elevator"
   },
   "24": {
-    "key": "24",
+    "id": "24",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:24-al-muizz.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/f/f6/24-al-muizz.ogg"
@@ -463,7 +463,7 @@
     "english_meaning": "The Honourer, The Bestower"
   },
   "25": {
-    "key": "25",
+    "id": "25",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:25-al-mudhill.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/b/b0/25-al-mudhill.ogg"
@@ -479,7 +479,7 @@
     "english_meaning": "The Dishonourer"
   },
   "26": {
-    "key": "26",
+    "id": "26",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:26-as-sami.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/f/fe/26-as-sami.ogg"
@@ -495,7 +495,7 @@
     "english_meaning": "The All-Hearing"
   },
   "27": {
-    "key": "27",
+    "id": "27",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:27-al-basir.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/2/28/27-al-basir.ogg"
@@ -517,7 +517,7 @@
     "english_meaning": "The All-Seeing"
   },
   "28": {
-    "key": "28",
+    "id": "28",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:28-al-hakam.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/e/eb/28-al-hakam.ogg"
@@ -539,7 +539,7 @@
     "english_meaning": "The Impartial Judge"
   },
   "29": {
-    "key": "29",
+    "id": "29",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:29-al-adl.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bd/29-al-adl.ogg"
@@ -558,7 +558,7 @@
     "english_meaning": "The Utterly Just"
   },
   "30": {
-    "key": "30",
+    "id": "30",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:30-al-latif.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/2/25/30-al-latif.ogg"
@@ -574,7 +574,7 @@
     "english_meaning": "The Subtle One, The Most Gentle"
   },
   "31": {
-    "key": "31",
+    "id": "31",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:31-al-khabir.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/d/d2/31-al-khabir.ogg"
@@ -590,7 +590,7 @@
     "english_meaning": "The All-Aware"
   },
   "32": {
-    "key": "32",
+    "id": "32",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:32-al-halim.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/a/a1/32-al-halim.ogg"
@@ -611,7 +611,7 @@
     "english_meaning": "The Most Forbearing"
   },
   "33": {
-    "key": "33",
+    "id": "33",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:33-al-azim.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/5/51/33-al-azim.ogg"
@@ -633,7 +633,7 @@
     "english_meaning": "The Magnificent, The Supreme"
   },
   "34": {
-    "key": "34",
+    "id": "34",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:34-al-ghafur.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/e/ec/34-al-ghafur.ogg"
@@ -649,7 +649,7 @@
     "english_meaning": "The Great Forgiver"
   },
   "35": {
-    "key": "35",
+    "id": "35",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:35-ash-shakur.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/9/9b/35-ash-shakur.ogg"
@@ -665,7 +665,7 @@
     "english_meaning": "The Most Appreciative"
   },
   "36": {
-    "key": "36",
+    "id": "36",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:36-al-ali.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/4/44/36-al-ali.ogg"
@@ -687,7 +687,7 @@
     "english_meaning": "The Most High, The Exalted"
   },
   "37": {
-    "key": "37",
+    "id": "37",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:37_al-kabir.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/c/cf/37_al-kabir.ogg"
@@ -709,7 +709,7 @@
     "english_meaning": "The Most Great"
   },
   "38": {
-    "key": "38",
+    "id": "38",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:38-al-hafiz.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/8/88/38-al-hafiz.ogg"
@@ -732,7 +732,7 @@
     "english_meaning": "The Preserver"
   },
   "39": {
-    "key": "39",
+    "id": "39",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:39-al-muqit.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/e/e6/39-al-muqit.ogg"
@@ -748,7 +748,7 @@
     "english_meaning": "The Sustainer"
   },
   "40": {
-    "key": "40",
+    "id": "40",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:40-al-hasib.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/b/b0/40-al-hasib.ogg"
@@ -767,7 +767,7 @@
     "english_meaning": "The Reckoner"
   },
   "41": {
-    "key": "41",
+    "id": "41",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:41-al-jalil.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/1/1d/41-al-jalil.ogg"
@@ -783,7 +783,7 @@
     "english_meaning": "The Majestic"
   },
   "42": {
-    "key": "42",
+    "id": "42",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:42_al-karim.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/7/7b/42_al-karim.ogg"
@@ -806,7 +806,7 @@
     "english_meaning": "The Most Generous, The Most Esteemed"
   },
   "43": {
-    "key": "43",
+    "id": "43",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:43-ar-raqib.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/2/27/43-ar-raqib.ogg"
@@ -822,7 +822,7 @@
     "english_meaning": "The Watchful"
   },
   "44": {
-    "key": "44",
+    "id": "44",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:44-al-mujib.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/1/17/44-al-mujib.ogg"
@@ -843,7 +843,7 @@
     "english_meaning": "The Responsive One"
   },
   "45": {
-    "key": "45",
+    "id": "45",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:45-al-wasi.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/d/d0/45-al-wasi.ogg"
@@ -865,7 +865,7 @@
     "english_meaning": "The All-Encompassing, the Boundless"
   },
   "46": {
-    "key": "46",
+    "id": "46",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:46-al-hakim.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/6/62/46-al-hakim.ogg"
@@ -881,7 +881,7 @@
     "english_meaning": "The All-Wise"
   },
   "47": {
-    "key": "47",
+    "id": "47",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:47-al-wadud.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/0/04/47-al-wadud.ogg"
@@ -904,7 +904,7 @@
     "english_meaning": "The Most Loving"
   },
   "48": {
-    "key": "48",
+    "id": "48",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:48-al-majid.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/7/73/48-al-majid.ogg"
@@ -924,7 +924,7 @@
     "english_meaning": "The Glorious, The Most Honorable"
   },
   "49": {
-    "key": "49",
+    "id": "49",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:49_al-baith.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/9/97/49_al-baith.ogg"
@@ -940,7 +940,7 @@
     "english_meaning": "The Infuser of New Life"
   },
   "50": {
-    "key": "50",
+    "id": "50",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:50-ash-shahid.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/0/08/50-ash-shahid.ogg"
@@ -956,7 +956,7 @@
     "english_meaning": "The All Observing Witnessing"
   },
   "51": {
-    "key": "51",
+    "id": "51",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:51-al-haqq.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/5/5e/51-al-haqq.ogg"
@@ -976,7 +976,7 @@
     "english_meaning": "The Absolute Truth"
   },
   "52": {
-    "key": "52",
+    "id": "52",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:52-al-wakil.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/b/b1/52-al-wakil.ogg"
@@ -992,7 +992,7 @@
     "english_meaning": "The Trustee, The Disposer of Affairs"
   },
   "53": {
-    "key": "53",
+    "id": "53",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:53-al-qawi.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/4/43/53-al-qawi.ogg"
@@ -1008,7 +1008,7 @@
     "english_meaning": "The All-Strong"
   },
   "54": {
-    "key": "54",
+    "id": "54",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:54-al-matin.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/8/8e/54-al-matin.ogg"
@@ -1024,7 +1024,7 @@
     "english_meaning": "The Firm, The Steadfast"
   },
   "55": {
-    "key": "55",
+    "id": "55",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:55-al-wali.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/6/6a/55-al-wali.ogg"
@@ -1040,7 +1040,7 @@
     "english_meaning": "The Protecting Associate"
   },
   "56": {
-    "key": "56",
+    "id": "56",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:56-al-hamid.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/f/f3/56-al-hamid.ogg"
@@ -1056,7 +1056,7 @@
     "english_meaning": "The Praiseworthy"
   },
   "57": {
-    "key": "57",
+    "id": "57",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:57-al-muhsi.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/7/72/57-al-muhsi.ogg"
@@ -1072,7 +1072,7 @@
     "english_meaning": "The All-Enumerating, The Counter"
   },
   "58": {
-    "key": "58",
+    "id": "58",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:58-al-mubdi.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/0/06/58-al-mubdi.ogg"
@@ -1088,7 +1088,7 @@
     "english_meaning": "The Originator, The Initiator"
   },
   "59": {
-    "key": "59",
+    "id": "59",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:59-al-muid.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/9/9e/59-al-muid.ogg"
@@ -1104,7 +1104,7 @@
     "english_meaning": "The Restorer, The Reinstater"
   },
   "60": {
-    "key": "60",
+    "id": "60",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:60-al-muhyi.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/2/21/60-al-muhyi.ogg"
@@ -1120,7 +1120,7 @@
     "english_meaning": "The Giver of Life"
   },
   "61": {
-    "key": "61",
+    "id": "61",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:61-al-mumit.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/7/78/61-al-mumit.ogg"
@@ -1136,7 +1136,7 @@
     "english_meaning": "The Creator of Death"
   },
   "62": {
-    "key": "62",
+    "id": "62",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:62-al-hayy.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/6/65/62-al-hayy.ogg"
@@ -1152,7 +1152,7 @@
     "english_meaning": "The Ever-Living"
   },
   "63": {
-    "key": "63",
+    "id": "63",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:63-al-qayyum.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/4/42/63-al-qayyum.ogg"
@@ -1168,7 +1168,7 @@
     "english_meaning": "The Sustainer, The Self-Subsisting"
   },
   "64": {
-    "key": "64",
+    "id": "64",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:64-al-wajid.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/1/16/64-al-wajid.ogg"
@@ -1184,7 +1184,7 @@
     "english_meaning": "The Perceiver"
   },
   "65": {
-    "key": "65",
+    "id": "65",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:65-al-majid.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/e/e5/65-al-majid.ogg"
@@ -1200,7 +1200,7 @@
     "english_meaning": "The Illustrious, the Magnificent"
   },
   "66": {
-    "key": "66",
+    "id": "66",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:66-al-wahid.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/8/8c/66-al-wahid.ogg"
@@ -1216,7 +1216,7 @@
     "english_meaning": "The One"
   },
   "67": {
-    "key": "67",
+    "id": "67",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:67-al-ahad.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/3/38/67-al-ahad.ogg"
@@ -1232,7 +1232,7 @@
     "english_meaning": "The Unique, The Only One"
   },
   "68": {
-    "key": "68",
+    "id": "68",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:68-as-samad.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/c/c5/68-as-samad.ogg"
@@ -1248,7 +1248,7 @@
     "english_meaning": "The Eternal, Satisfier of Needs"
   },
   "69": {
-    "key": "69",
+    "id": "69",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:69-al-qadir.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/d/d7/69-al-qadir.ogg"
@@ -1264,7 +1264,7 @@
     "english_meaning": "The Omnipotent One"
   },
   "70": {
-    "key": "70",
+    "id": "70",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:70-al-muqtadir.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/4/49/70-al-muqtadir.ogg"
@@ -1280,7 +1280,7 @@
     "english_meaning": "The Powerful"
   },
   "71": {
-    "key": "71",
+    "id": "71",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:71-al-muqaddim.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/7/77/71-al-muqaddim.ogg"
@@ -1296,7 +1296,7 @@
     "english_meaning": "The Expediter, The Promoter"
   },
   "72": {
-    "key": "72",
+    "id": "72",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:72-al-muakhkhir.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/f/fb/72-al-muakhkhir.ogg"
@@ -1312,7 +1312,7 @@
     "english_meaning": "The Delayer"
   },
   "73": {
-    "key": "73",
+    "id": "73",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:73-al-awwal.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/2/2e/73-al-awwal.ogg"
@@ -1328,7 +1328,7 @@
     "english_meaning": "The First"
   },
   "74": {
-    "key": "74",
+    "id": "74",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:74-al-akhir.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/8/8d/74-al-akhir.ogg"
@@ -1344,7 +1344,7 @@
     "english_meaning": "The Last"
   },
   "75": {
-    "key": "75",
+    "id": "75",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:75-az-zahir.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/8/80/75-az-zahir.ogg"
@@ -1360,7 +1360,7 @@
     "english_meaning": "The Manifest"
   },
   "76": {
-    "key": "76",
+    "id": "76",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:76-al-batin.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/4/46/76-al-batin.ogg"
@@ -1376,7 +1376,7 @@
     "english_meaning": "The Hidden One, Knower of the Hidden"
   },
   "77": {
-    "key": "77",
+    "id": "77",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:77-al-wali.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/5/53/77-al-wali.ogg"
@@ -1392,7 +1392,7 @@
     "english_meaning": "The Sole Governor"
   },
   "78": {
-    "key": "78",
+    "id": "78",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:78-al-mutaali.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/d/da/78-al-mutaali.ogg"
@@ -1408,7 +1408,7 @@
     "english_meaning": "The Self Exalted"
   },
   "79": {
-    "key": "79",
+    "id": "79",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:79-al-barr.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/d/d8/79-al-barr.ogg"
@@ -1424,7 +1424,7 @@
     "english_meaning": "The Source of All Goodness"
   },
   "80": {
-    "key": "80",
+    "id": "80",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:80-at-tawwab.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/1/15/80-at-tawwab.ogg"
@@ -1440,7 +1440,7 @@
     "english_meaning": "The Ever-Pardoning"
   },
   "81": {
-    "key": "81",
+    "id": "81",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:81-al-muntaqim.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/c/cc/81-al-muntaqim.ogg"
@@ -1456,7 +1456,7 @@
     "english_meaning": "The Avenger"
   },
   "82": {
-    "key": "82",
+    "id": "82",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:82-al-afuw.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/0/05/82-al-afuw.ogg"
@@ -1472,7 +1472,7 @@
     "english_meaning": "The Pardoner"
   },
   "83": {
-    "key": "83",
+    "id": "83",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:83-ar-rauf.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/d/d3/83-ar-rauf.ogg"
@@ -1488,7 +1488,7 @@
     "english_meaning": "The Most Kind"
   },
   "84": {
-    "key": "84",
+    "id": "84",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:84-malik-ul-mulk.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/0/01/84-malik-ul-mulk.ogg"
@@ -1504,7 +1504,7 @@
     "english_meaning": "Master of the Kingdom, Owner of the Dominion"
   },
   "85": {
-    "key": "85",
+    "id": "85",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:85-dhul-jalaal-wal-ikraam.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3a/85-dhul-jalaal-wal-ikraam.ogg"
@@ -1520,7 +1520,7 @@
     "english_meaning": "Lord of Glory and Honour, Lord of Majesty and Generosity"
   },
   "86": {
-    "key": "86",
+    "id": "86",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:86-al-muqsit.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/2/29/86-al-muqsit.ogg"
@@ -1536,7 +1536,7 @@
     "english_meaning": "The Just One"
   },
   "87": {
-    "key": "87",
+    "id": "87",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:87-al-jame.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/2/27/87-al-jame.ogg"
@@ -1552,7 +1552,7 @@
     "english_meaning": "The Gatherer, the Uniter"
   },
   "88": {
-    "key": "88",
+    "id": "88",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:88-al-ghani.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/f/f4/88-al-ghani.ogg"
@@ -1568,7 +1568,7 @@
     "english_meaning": "The Self-Sufficient, The Wealthy"
   },
   "89": {
-    "key": "89",
+    "id": "89",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:89-al-mughni.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/b/b3/89-al-mughni.ogg"
@@ -1584,7 +1584,7 @@
     "english_meaning": "The Enricher"
   },
   "90": {
-    "key": "90",
+    "id": "90",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:90-al-mani.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/a/ad/90-al-mani.ogg"
@@ -1605,7 +1605,7 @@
     "english_meaning": "The Withholder"
   },
   "91": {
-    "key": "91",
+    "id": "91",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:91-ad-darr.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/8/86/91-ad-darr.ogg"
@@ -1621,7 +1621,7 @@
     "english_meaning": "The Distresser"
   },
   "92": {
-    "key": "92",
+    "id": "92",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:92-an-nafi.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/0/0e/92-an-nafi.ogg"
@@ -1637,7 +1637,7 @@
     "english_meaning": "The Propitious, the Benefactor"
   },
   "93": {
-    "key": "93",
+    "id": "93",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:93-an-nur.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/f/fa/93-an-nur.ogg"
@@ -1653,7 +1653,7 @@
     "english_meaning": "The Light, The Illuminator"
   },
   "94": {
-    "key": "94",
+    "id": "94",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:94-al-hadi.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/0/07/94-al-hadi.ogg"
@@ -1669,7 +1669,7 @@
     "english_meaning": "The Guide"
   },
   "95": {
-    "key": "95",
+    "id": "95",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:95-al-badi.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/2/2b/95-al-badi.ogg"
@@ -1690,7 +1690,7 @@
     "english_meaning": "The Incomparable Originator"
   },
   "96": {
-    "key": "96",
+    "id": "96",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:96-al-baqi.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/2/29/96-al-baqi.ogg"
@@ -1706,7 +1706,7 @@
     "english_meaning": "The Everlasting"
   },
   "97": {
-    "key": "97",
+    "id": "97",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:97-al-warith.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/97-al-warith.ogg"
@@ -1722,7 +1722,7 @@
     "english_meaning": "The Inheritor, The Heir"
   },
   "98": {
-    "key": "98",
+    "id": "98",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:98-ar-rashid.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/e/e1/98-ar-rashid.ogg"
@@ -1738,7 +1738,7 @@
     "english_meaning": "The Guide, Infallible Teacher"
   },
   "99": {
-    "key": "99",
+    "id": "99",
     "sound": [
       "https://simple.wikipedia.org/wiki/File:99-as-sabur.ogg",
       "https://upload.wikimedia.org/wikipedia/commons/5/50/99-as-sabur.ogg"
