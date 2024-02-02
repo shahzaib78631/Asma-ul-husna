@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "kidoo",
-    "slug": "kidoo",
+    "name": "Asma Ul Husna",
+    "slug": "AsmaUlHusna",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,7 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#333540"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -19,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#333540"
-      }
+      },
+      "package": "com.restudio.asmaulhusna"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -28,13 +31,21 @@
       [
         "expo-font",
         {
-          "fonts": ["assets/fonts/Klop.woff"]
+          "fonts": [
+            "assets/fonts/arabic-regular.otf",
+            "assets/fonts/english.ttf"
+          ]
         }
       ]
     ],
     "experiments": {
       "typedRoutes": true,
       "tsconfigPaths": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7206c390-08d5-49a6-bfe7-74a775ecca3a"
+      }
     }
   }
 }

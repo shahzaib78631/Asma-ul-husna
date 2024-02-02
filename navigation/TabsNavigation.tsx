@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { View } from "react-native";
+import { Platform, View } from "react-native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 
 // Components
@@ -34,7 +34,7 @@ function TabsNavigation(): React.ReactElement {
           height: 120,
         },
         tabBarStyle: {
-          height: 60,
+          height: Platform.OS === "android" ? 60 : 80,
           borderTopColor: themeStyles.text.secondary,
         },
         tabBarLabel: ({ color, children }) => (
